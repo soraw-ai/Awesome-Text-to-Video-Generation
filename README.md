@@ -5,10 +5,8 @@
 **This project is curated and maintained by [Rui Sun](https://github.com/ray-ruisun) and [Yumin Zhang](https://github.com/zymvszym).**
 
 ## Table of Content
-* [Text-to-Image](#text_to_image)
+* [Text-to-Seq-Image](#text_to_seq_image)
 * [Text-to-Video](#text_to_video)
-* [Image-to-Video](#image_to_video)
-* [Video-to-Video](#video_to_video)
 
 ## <a name="text_to_seq_image"></a> Text-to-Seq-Image
 - **Scalable Diffusion Models with Transformers** `Sequential Images` <br>
@@ -17,6 +15,10 @@
   **ICCV'23(Oral)**, arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.09748)], [[PDF](https://arxiv.org/pdf/2212.09748.pdf)], [[Code](https://github.com/facebookresearch/DiT)], [[Pretrained Model](https://github.com/facebookresearch/DiT)], [[Home Page](https://www.wpeebles.com/DiT.html)] <br>
 
 ## <a name="text_to_video"></a> Text-to-Video
+- **Video generation models as world simulators** <br>
+  Team: Sora, Open AI. <br>
+  *Tim Brooks, Bill Peebles, Connor Homes, et al., Aditya Ramesh* <br>
+  online page, 2024.02 [[Paper](https://openai.com/research/video-generation-models-as-world-simulators)], [[Home Page](https://openai.com/sora)] <br>
 - **World Model on Million-Length Video And Language With RingAttention** `Long Video` <br>
   Team: UC Berkeley. <br>
   *Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel* <br>
