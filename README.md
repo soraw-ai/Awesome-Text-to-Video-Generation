@@ -1,6 +1,8 @@
 # Awesome-Video-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Topics about: <br>
-> `Text-to-Image`, `Text-to-Video`, `Image-to-Video`
+> `Text-to-Image`, `Text-to-Video`, `Image-to-Video`, `Video-to-Video`
+
+**This project is curated and maintained by [Rui Sun](https://github.com/ray-ruisun) and [Yumin Zhang](https://github.com/zymvszym).**
 
 ## Table of Content
 * [Text-to-Image](#text_to_image)
@@ -119,7 +121,6 @@
   Team: Show Lab, National University of Singapore. <br>
   *Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Mike Zheng Shou et al* <br>
   **ICCV'23**, arxiv, 2022.12[[Paper](https://arxiv.org/abs/2212.11565)], [[PDF](https://arxiv.org/pdf/2212.11565.pdf)], [[Code](https://github.com/showlab/Tune-A-Video)], [[Pretrained Model](https://huggingface.co/Tune-A-Video-library)]  <br>
-
 - **Latent Video Diffusion Models for High-Fidelity Long Video Generation** `Long Video` <br>
   Team: HKUST, Tencent AI Lab. <br>
   *Yingqing He, Tianyu Yang, Yong Zhang, Ying Shan, Qifeng Chen* <br>
@@ -132,14 +133,26 @@
   Team: Google. <br>
   *Jonathan Ho, William Chan, Chitwan Saharia, et al., Tim Salimans* <br>
   arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.02303)], [[PDF](https://arxiv.org/pdf/2210.02303.pdf)], [[Home Page](https://imagen.research.google/video/)] <br>
+- **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation** `Story Visualization` <br>
+  Team: UNC Chapel Hill. <br>
+  *Adyasha Maharana, Darryl Hannan, Mohit Bansal* <br>
+  ECCV'22, arxiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.06192)], [[PDF](https://arxiv.org/pdf/2209.06192.pdf)], [[Code](https://github.com/adymaharana/storydalle)], [[Demo](https://replicate.com/adymaharana/story-dalle)] <br>
 - **Make-A-Video: Text-to-Video Generation without Text-Video Data** <br>
   Team: Meta AI. <br>
   *Uriel Singer, Adam Polyak, Thomas Hayes, et al., Yaniv Taigman* <br>
-  arxiv, 2022.9 [[Paper](https://arxiv.org/abs/2209.14792)], [[PDF](https://arxiv.org/pdf/2209.14792.pdf)], [[Code](https://github.com/SooLab/Free-Bloom)]<br>
+  arxiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.14792)], [[PDF](https://arxiv.org/pdf/2209.14792.pdf)], [[Code](https://github.com/SooLab/Free-Bloom)]<br>
+- **Word-Level Fine-Grained Story Visualization** `Story Visualization` <br>
+  Team: University of Oxford. <br>
+  *Bowen Li, Thomas Lukasiewicz* <br>
+  ECCV'22, arxiv, 2022.08 [[Paper](https://arxiv.org/abs/2208.02341)], [[PDF](https://arxiv.org/pdf/2208.02341.pdf)], [[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)], [[Pretrained Model](https://github.com/mrlibw/Word-Level-Story-Visualization)]<br>
 - **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** <br>
   Team: Tsinghua University. <br>
   *Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* <br>
   ICLR'23, arXiv, 2022.05 [[Paper](https://arxiv.org/abs/2205.15868)], [[PDF](https://arxiv.org/pdf/2205.15868.pdf)], [[Code](https://github.com/THUDM/CogVideo)], [[Home Page](https://models.aminer.cn/cogvideo/)], [[Demo](https://huggingface.co/spaces/THUDM/CogVideo)] <br>
+- **Video Diffusion Models** `text-conditioned` <br>
+  Team: Google. <br>
+  *Jonathan Ho, Tim Salimans, Alexey Gritsenko, et al., David J. Fleet* <br>
+  arXiv, 2022.04 [[Paper](https://arxiv.org/abs/2204.03458)], [[PDF](https://arxiv.org/pdf/2204.03458.pdf)], [[Home Page](https://video-diffusion.github.io/)] <br>
 - **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis** `Long Video` <br>
   Team: Microsoft. <br>
   *Chenfei Wu, Jian Liang, Xiaowei Hu, et al., Nan Duan* <br>
@@ -178,7 +191,7 @@ If you find this repository useful, please consider citing this list:
 ```
 @misc{rui2023videogenerationlist,
     title = {Awesome-Video-Generation},
-    author = {Rui Sun},
+    author = {Rui Sun, Yumin Zhang},
     journal = {GitHub repository},
     url = {https://github.com/soraw-ai/Awesome-Video-Generation},
     year = {2024},
