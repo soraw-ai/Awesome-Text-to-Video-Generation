@@ -9,16 +9,24 @@
 * [Text-to-Video](#text_to_video)
 
 ## <a name="text_to_seq_image"></a> Text-to-Seq-Image
+- **LivePhoto: Real Image Animation with Text-guided Motion Control**  <br>
+  Team: HKU, Alibaba Group, Ant Group. <br>
+  *Xi Chen, Zhiheng Liu, Mengting Chen, et al., Hengshuang Zhao* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.02928)], [[PDF](https://arxiv.org/pdf/2312.02928.pdf)], [[Code](https://github.com/XavierCHEN34/LivePhoto)], [[Demo (Video)](https://www.youtube.com/watch?v=M2vzrTYAsQI)], [[Home Page](https://xavierchen34.github.io/LivePhoto-Page/)] <br>
+
 - **Scalable Diffusion Models with Transformers** `Sequential Images` <br>
   Team: UC Berkeley, NYU. <br>
   *William Peebles, Saining Xie* <br>
   **ICCV'23(Oral)**, arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.09748)], [[PDF](https://arxiv.org/pdf/2212.09748.pdf)], [[Code](https://github.com/facebookresearch/DiT)], [[Pretrained Model](https://github.com/facebookresearch/DiT)], [[Home Page](https://www.wpeebles.com/DiT.html)] <br>
-
 ## <a name="text_to_video"></a> Text-to-Video
 - **Video generation models as world simulators** <br>
   Team: Sora, Open AI. <br>
   *Tim Brooks, Bill Peebles, Connor Homes, et al., Aditya Ramesh* <br>
   online page, 2024.02 [[Paper](https://openai.com/research/video-generation-models-as-world-simulators)], [[Home Page](https://openai.com/sora)] <br>
+- **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation** <br>
+  Team: Sora, Open AI. <br>
+  *Weiming Ren, Harry Yang, Ge Zhang, et al., Wenhu Chen* <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.04324)], [[PDF](https://arxiv.org/pdf/2402.04324.pdf)], [[Code](https://github.com/TIGER-AI-Lab/ConsistI2V)], [[Pretrained Model](https://huggingface.co/TIGER-Lab/)], [[Home Page](https://tiger-ai-lab.github.io/ConsistI2V/)] <br>
 - **World Model on Million-Length Video And Language With RingAttention** `Long Video` <br>
   Team: UC Berkeley. <br>
   *Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel* <br>
@@ -47,6 +55,11 @@
   Team: Google Research, Weizmann Institute, Tel-Aviv University, Technion. <br>
   *Omer Bar-Tal, Hila Chefer, Omer Tov, et al., Inbar Mosseri* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.12945)], [[PDF](https://arxiv.org/pdf/2401.12945.pdf)], [[Home Page](https://lumiere-video.github.io/)] <br>
+- **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** <br>
+  Team: Fudan University, Alibaba Group, HUST, Zhejiang University. <br>
+  *Yujie Wei, Shiwei Zhang, Zhiwu Qing, et al., Hongming Shan* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2401.12945)], [[PDF](https://arxiv.org/pdf/2312.04433.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl)], [[Home Page](https://dreamvideo-t2v.github.io)] <br>
+
 - **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** <br>
   Team: Peking University, Microsoft Research. <br>
   *Wenjing Wang, Huan Yang, Zixi Tuo, et al., Jiaying Liu* <br>
@@ -110,7 +123,17 @@
 - **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation** <br>
   Team: University of Science and Technology of China, MSRA, Xi'an Jiaotong University. <br>
   *Yanhui Wang, Jianmin Bao, Wenming Weng, et al., Baining Guo* <br>
+<<<<<<< Updated upstream
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.18829#:~:text=Unlike%20existing%20approaches%20that%20align,%26text%2Dto%2Dvideo%20generation.)], [[PDF](https://arxiv.org/pdf/2311.18829.pdf)], [[Home Page](https://wangyanhui666.github.io/MicroCinema.github.io/)], [[Demo(video)](https://www.youtube.com/shorts/H7O-Ku_lqPA)] <br>
+=======
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.18829#:~:text=Unlike%20existing%20approaches%20that%20align,%26text%2Dto%2Dvideo%20generation.)], [[PDF](https://arxiv.org/pdf/2311.18829.pdf)], [[Home Page](https://wangyanhui666.github.io/MicroCinema.github.io/)], [[Demo](https://www.youtube.com/shorts/H7O-Ku_lqPA)] <br>
+
+- **FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation** <br>
+  Team: University of Science and Technology of China, MSRA, Xi'an Jiaotong University. <br>
+  *Yuanxin Liu, Lei Li, Shuhuai Ren, et al., Lu Hou* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.01813)], [[PDF](https://arxiv.org/pdf/2311.01813.pdf)], [[Code](https://github.com/llyx97/FETV)], [[Dataset](https://huggingface.co/datasets/lyx97/FETV)] <br>
+
+>>>>>>> Stashed changes
 - **ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models** <br>
   Team: University of Science and Technology of China, Microsoft. <br>
   *Wenming Weng, Ruoyu Feng, Yanhui Wang, et al., Zhiwei Xiong* <br>
@@ -135,6 +158,10 @@
   Team: ByteDance. <br>
   *Yan Zeng, Guoqiang Wei, Jiani Zheng, et al., Hang Li* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10982)], [[PDF](https://arxiv.org/pdf/2311.10982.pdf)], [[Home Page](https://makepixelsdance.github.io/)], [[[Demo(video)](https://www.youtube.com/watch?v=QERmPmCg9aQ)] <br>
+- **Learning Universal Policies via Text-Guided Video Generation** <br>
+  Team: MIT, Google DeepMind, UC Berkeley. <br>
+  *Yilun Du, Mengjiao Yang, Bo Dai, et al., Pieter Abbeel* <br>
+  **NeurIPS'23 (Spotlight)**, arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2302.00111)], [[PDF](https://arxiv.org/pdf/2302.00111.pdf)], [[Code](https://github.com/flow-diffusion/AVDC)], [[Home Page](https://universal-policy.github.io/unipi/)] <br>
 - **Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning** <br>
   Team: Meta. <br>
   *Rohit Girdhar, Mannat Singh, Andrew Brown, et al., Ishan Misra* <br>
@@ -262,6 +289,11 @@
   Team: University of Maryland. <br>
   *Songwei Ge, Seungjun Nah, Guilin Liu, et al., Yogesh Balaji* <br>
   ICCV'23, arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.10474)], [[PDF](https://arxiv.org/pdf/2305.10474.pdf)], [[Home Page](https://research.nvidia.com/labs/dir/pyoco/)] <br>
+- **Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity** <br>
+  Team: NUS, CUHK. <br>
+  *Zijiao Chen, Jiaxin Qing, Juan Helen Zhou* <br>
+  NeurIPS'24, arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.11675)], [[PDF](https://arxiv.org/pdf/2305.11675.pdf)], [[Code](https://github.com/jqin4749/MindVideo)], [[Home Page](https://mind-video.com)] <br>
+
 - **VideoPoet: A Large Language Model for Zero-Shot Video Generation** <br>
   Team: Google Research <br>
   *Dan Kondratyuk, Lijun Yu, Xiuye Gu, et al., Lu Jiang* <br>
@@ -294,6 +326,10 @@
   Team: Runway <br>
   *Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis* <br>
   ICCV'23, arXiv, 2023.02 [[Paper](https://arxiv.org/abs/2302.03011)], [[PDF](https://arxiv.org/pdf/2302.03011.pdf)], [[Home Page](https://research.runwayml.com/gen1)] <br>
+- **SceneScape: Text-Driven Consistent Scene Generation** <br>
+  Team: Weizmann Institute of Science, NVIDIA Research <br>
+  *Rafail Fridman, Amit Abecasis, Yoni Kasten, Tali Dekel* <br>
+  NeurIPS'23, arXiv, 2023.02 [[Paper](https://arxiv.org/abs/2302.01133)], [[PDF](https://arxiv.org/pdf/2302.01133.pdf)], [[Code](https://github.com/RafailFridman/SceneScape)], [[Home Page](https://scenescape.github.io)] <br>
 - **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation** <br>
   Team: Renmin University of China, Peking University, Microsoft Research  <br>
   *Ludan Ruan, Yiyang Ma, Huan Yang, et al., Baining Guo* <br>
@@ -329,7 +365,17 @@
 - **Make-A-Video: Text-to-Video Generation without Text-Video Data** <br>
   Team: Meta AI. <br>
   *Uriel Singer, Adam Polyak, Thomas Hayes, et al., Yaniv Taigman* <br>
+<<<<<<< Updated upstream
   arXiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.14792)], [[PDF](https://arxiv.org/pdf/2209.14792.pdf)], [[Code](https://github.com/SooLab/Free-Bloom)]<br>
+=======
+  arxiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.14792)], [[PDF](https://arxiv.org/pdf/2209.14792.pdf)], [[Code](https://github.com/SooLab/Free-Bloom)]<br>
+- **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**  <br>
+  Team: S-Lab, SenseTime. <br>
+  *Mingyuan Zhang, Zhongang Cai, Liang Pan, et al., Ziwei Liu* <br>
+  TPAMI'24, arxiv, 2022.08 [[Paper](https://arxiv.org/abs/2208.15001)], [[PDF](https://arxiv.org/pdf/2208.15001.pdf)], [[Code](https://github.com/mingyuan-zhang/MotionDiffuse)], [[Home Page](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416192)], [[Demo](https://huggingface.co/spaces/mingyuan/MotionDiffuse)]<br>
+
+
+>>>>>>> Stashed changes
 - **Word-Level Fine-Grained Story Visualization** `Story Visualization` <br>
   Team: University of Oxford. <br>
   *Bowen Li, Thomas Lukasiewicz* <br>
