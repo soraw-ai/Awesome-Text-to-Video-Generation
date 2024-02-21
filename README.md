@@ -33,14 +33,58 @@
   Team: Stanford University Fei-Fei Li, Google. <br>
   *Agrim Gupta, Lijun Yu, Kihyuk Sohn, et al., José Lezama* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.06662)], [[PDF](https://arxiv.org/pdf/2312.06662.pdf)], [[Home Page](https://walt-video-diffusion.github.io/)] <br>
+- **ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models** <br>
+  Team: University of Science and Technology of China, Microsoft. <br>
+  *Wenming Weng, Ruoyu Feng, Yanhui Wang, et al., Zhiwei Xiong* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.18834)], [[PDF](https://arxiv.org/pdf/2311.18834.pdf)], [[Code(coming)](https://github.com/WarranWeng/ART.V)], [[Home Page](https://warranweng.github.io/art.v/)], [[Demo(video)](https://www.youtube.com/watch?v=KX-BV7a-S0Q)] <br>
+- **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** <br>
+  Team: Stability AI. <br>
+  *Andreas Blattmann, Tim Dockhorn, Sumith Kulal, et al., Robin Rombach* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.15127)], [[PDF](https://arxiv.org/pdf/2311.15127.pdf)], [[Code](https://github.com/Stability-AI/generative-models)] <br>
+- **FusionFrames: Efficient Architectural Aspects for Text-to-Video Generation Pipeline** <br>
+  Team: Sber AI. <br>
+  *Vladimir Arkhipkin, Zein Shaheen, Viacheslav Vasilev, et al., Denis Dimitrov* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.13073)], [[PDF](https://arxiv.org/pdf/2311.13073.pdf)], [[Code](https://github.com/ai-forever/KandinskyVideo)], [[Home Page](hhttps://ai-forever.github.io/kandinsky-video/)], [[Demo(live)](https://replicate.com/cjwbw/kandinskyvideo)] <br>
+- **MoVideo: Motion-Aware Video Generation with Diffusion Models** <br>
+  Team: ETH, Meta. <br>
+  *Jingyun Liang, Yuchen Fan, Kai Zhang, et al., Rakesh Ranjan* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.11325)], [[PDF](https://arxiv.org/pdf/2311.11325.pdf)], [[Home Page](https://jingyunliang.github.io/MoVideo/)] <br>
+- **Optimal Noise pursuit for Augmenting Text-to-Video Generation** <br>
+  Team: Zhejiang Lab. <br>
+  *Shijie Ma, Huayi Xu, Mengjian Li, et al., Yaxiong Wang* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.00949)], [[PDF](https://arxiv.org/pdf/2311.00949.pdf)] <br>
 - **Make Pixels Dance: High-Dynamic Video Generation** <br>
   Team: ByteDance. <br>
   *Yan Zeng, Guoqiang Wei, Jiani Zheng, et al., Hang Li* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10982)], [[PDF](https://arxiv.org/pdf/2311.10982.pdf)], [[Home Page](https://makepixelsdance.github.io/)], [[Demo](https://www.youtube.com/watch?v=QERmPmCg9aQ)] <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10982)], [[PDF](https://arxiv.org/pdf/2311.10982.pdf)], [[Home Page](https://makepixelsdance.github.io/)], [[[Demo(video)](https://www.youtube.com/watch?v=QERmPmCg9aQ)] <br>
 - **Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning** <br>
   Team: Meta. <br>
   *Rohit Girdhar, Mannat Singh, Andrew Brown, et al., Ishan Misra* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10709)], [[PDF](https://arxiv.org/pdf/2311.10709.pdf)], [[Home Page](https://emu-video.metademolab.com/)], [[Demo](https://emu-video.metademolab.com/#/demo)] <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10709)], [[PDF](https://arxiv.org/pdf/2311.10709.pdf)], [[Home Page](https://emu-video.metademolab.com/)], [[[Demo(live)](https://emu-video.metademolab.com/#/demo)] <br>
+- **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** <br>
+  Team: Tencent AI Lab. <br>
+  *Haoxin Chen, Menghan Xia, Yingqing He, et al., Ying Shan* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.19512)], [[PDF](https://arxiv.org/pdf/2310.19512.pdf)], [[Code](https://github.com/AILab-CVC/VideoCrafter)], [[Home Page](https://ailab-cvc.github.io/videocrafter2/)] <br>
+- **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** <br>
+  Team: Shanghai Artificial Intelligence Laboratory. <br>
+  *Xinyuan Chen, Yaohui Wang, Lingjun Zhang, et al., Ziwei Liu* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.20700)], [[PDF](https://arxiv.org/pdf/2310.20700.pdf)], [[Code](https://github.com/Vchitect/SEINE)], [[Home Page](https://vchitect.github.io/SEINE-project/)] <br>
+- **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** <br>
+  Team: The Chinese University of Hong Kong. <br>
+  *Jinbo Xing, Menghan Xia, Yong Zhang, et al., Ying Shan* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12190)], [[PDF](https://arxiv.org/pdf/2310.12190.pdf)], [[Code](https://github.com/Doubiiu/DynamiCrafter)], [[Pretrained Model](https://github.com/Doubiiu/DynamiCrafter)], [[Home Page](https://doubiiu.github.io/projects/DynamiCrafter/)], [[Demo(live)](https://huggingface.co/spaces/Doubiiu/DynamiCrafter)], [[Demo(video)](https://www.youtube.com/watch?v=0NfmIsNAg-g)] <br>
+- **LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation** <br>
+  Team: Nankai University, MEGVII Technology. <br>
+  *Ruiqi Wu, Liangyu Chen, Tong Yang, et al., Xiangyu Zhang* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.10769)], [[PDF](https://arxiv.org/pdf/2310.10769.pdf)], [[Code](https://github.com/RQ-Wu/LAMP)], [[Pretrained Model](https://github.com/RQ-Wu/LAMP)], [[Home Page](https://rq-wu.github.io/projects/LAMP/)] <br>
+- **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning** <br>
+  Team: UNC Chapel Hill. <br>
+  *Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal* <br>
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.15091)], [[PDF](https://arxiv.org/pdf/2309.15091.pdf)], [[Code](https://github.com/HL-hanlin/VideoDirectorGPT)] <br>
+- **VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation** <br>
+  Team: Baidu Inc. <br>
+  *Xin Li, Wenqing Chu, Ye Wu, et al., Jingdong Wang* <br>
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.00398)], [[PDF](https://arxiv.org/pdf/2309.00398.pdf)], [[Home Page](https://videogen.github.io/VideoGen/)] <br>
 - **LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models** <br>
   Team: Shanghai Artificial Intelligence Laboratory. <br>
   *Yaohui Wang, Xinyuan Chen, Xin Ma, et al., Ziwei Liu* <br>
@@ -56,11 +100,15 @@
 - **Show-1: Marrying pixel and latent diffusion models for text-to-video generation.** <br>
   Team: Show Lab, National University of Singapor <br>
   *David Junhao Zhang, Jay Zhangjie Wu, Jia-Wei Liu, et al., Mike Zheng Shou* <br>
-  arxiv, 2023.9 [[Paper](https://arxiv.org/abs/2309.15818)], [[PDF](https://arxiv.org/pdf/2309.15818.pdf)], [[Home Page](https://showlab.github.io/Show-1/)],[[Code](https://github.com/showlab/Show-1)], [[Pretrained Model](https://huggingface.co/spaces/showlab/Show-1)] <br>
+  arxiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.15818)], [[PDF](https://arxiv.org/pdf/2309.15818.pdf)], [[Home Page](https://showlab.github.io/Show-1/)],[[Code](https://github.com/showlab/Show-1)], [[Pretrained Model](https://huggingface.co/spaces/showlab/Show-1)] <br>
 - **GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER** <br>
   Team: Institute of Automation, Chinese Academy of Sciences (CASIA). <br>
   *Mingzhen Sun, Weining Wang, Zihan Qin, et al., Jing Liu* <br>
-  NeurIPS'23, arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.13274)], [[PDF](https://arxiv.org/pdf/2309.13274.pdf)], [[Code](https://github.com/iva-mzsun/GLOBER)], [[Home Page](https://iva-mzsun.github.io/GLOBER)], [[Demo](https://iva-mzsun.github.io/GLOBER)] <br>
+  NeurIPS'23, arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.13274)], [[PDF](https://arxiv.org/pdf/2309.13274.pdf)], [[Code](https://github.com/iva-mzsun/GLOBER)], [[Home Page](https://iva-mzsun.github.io/GLOBER)], [[[Demo(video)](https://iva-mzsun.github.io/GLOBER)] <br>
+- **SimDA: Simple Diffusion Adapter for Efficient Video Generation** <br>
+  Team: Fudan University, Microsoft. <br>
+  *Zhen Xing, Qi Dai, Han Hu, Zuxuan Wu, Yu-Gang Jiang* <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.09710)], [[PDF](https://arxiv.org/pdf/2308.09710.pdf)], [[Code (Coming)](https://github.com/ChenHsing/SimDA)], [[Home Page](https://chenhsing.github.io/SimDA/)] <br>
 - **Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** <br>
   Team: National University of Singapore. <br>
   *Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua* <br>
@@ -68,7 +116,15 @@
 - **ModelScope Text-to-Video Technical Report** <br>
   Team: Alibaba Group. <br>
   *Jiuniu Wang, Hangjie Yuan, Dayou Chen, et al., Shiwei Zhang* <br>
-  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.06571)], [[PDF](https://arxiv.org/pdf/2308.06571.pdf)], [[Home Page](https://modelscope.cn/models/iic/text-to-video-synthesis/summary)], [[Demo](https://huggingface.co/spaces/ali-vilab/modelscope-text-to-video-synthesis)] <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.06571)], [[PDF](https://arxiv.org/pdf/2308.06571.pdf)], [[Code](https://github.com/modelscope/modelscope)], [[Home Page](https://modelscope.cn/models/iic/text-to-video-synthesis/summary)], [[[Demo(live)](https://huggingface.co/spaces/ali-vilab/modelscope-text-to-video-synthesis)] <br>
+- **Dual-Stream Diffusion Net for Text-to-Video Generation** <br>
+  Team: Nanjing University of Science and Technology. <br>
+  *Binhui Liu, Xin Liu, Anbo Dai, et al., Jian Yang* <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.08316)], [[PDF](https://arxiv.org/pdf/2308.08316.pdf)] <br>
+- **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** <br>
+  Team: The Chinese University of Hong Kong. <br>
+  *Yuwei Guo, Ceyuan Yang, Anyi Rao, et al., Bo Dai* <br>
+  **ICLR'24 (spotlight)**, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.04725)], [[PDF](https://arxiv.org/pdf/2307.04725.pdf)], [[Code](https://github.com/guoyww/AnimateDiff)], [[Pretrained Model](https://github.com/guoyww/AnimateDiff)], [[Home Page](https://animatediff.github.io/)] <br>
 - **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** <br>
   Team: Shanghai AI Laboratory. <br>
   *Yi Wang, Yinan He, Yizhuo Li, et al., Yu Qiao* <br>
@@ -76,7 +132,15 @@
 - **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** <br>
   Team: HKUST. <br>
   *Yingqing He, Menghan Xia, Haoxin Chen, et al., Qifeng Chen* <br>
-  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06940)], [[PDF](https://arxiv.org/pdf/2307.06940.pdf)], [[Code](https://github.com/AILab-CVC/Animate-A-Story)], [[Home Page](https://ailab-cvc.github.io/Animate-A-Story/)], [[Demo](https://ailab-cvc.github.io/Animate-A-Story/)] <br>
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06940)], [[PDF](https://arxiv.org/pdf/2307.06940.pdf)], [[Code](https://github.com/AILab-CVC/Animate-A-Story)], [[Home Page](https://ailab-cvc.github.io/Animate-A-Story/)], [[[Demo(video)](https://ailab-cvc.github.io/Animate-A-Story/)] <br>
+- **Probabilistic Adaptation of Text-to-Video Models** <br>
+  Team: Google, UC Berkeley. <br>
+  *Mengjiao Yang, Yilun Du, Bo Dai, et al., Pieter Abbeel* <br>
+  arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2306.01872)], [[PDF](https://arxiv.org/pdf/2306.01872.pdf)], [[Home Page](https://video-adapter.github.io/video-adapter/)] <br>
+- **ED-T2V: An Efficient Training Framework for Diffusion-based Text-to-Video Generation** <br>
+  Team: School of Artificial Intelligence, University of Chinese Academy of Sciences. <br>
+  *Jiawei Liu, Weining Wang, Wei Liu, Qian He, Jing Liu* <br>
+  IJCNN'23, 2023.06 [[Paper](https://ieeexplore.ieee.org/abstract/document/10191565)], [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10191565)] <br>
 - **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** <br>
   Team: CUHK. <br>
   *Jinbo Xing, Menghan Xia, Yuxin Liu, et al., Tien-Tsin Wong* <br>
@@ -96,11 +160,15 @@
 - **VideoPoet: A Large Language Model for Zero-Shot Video Generation** <br>
   Team: Google Research <br>
   *Dan Kondratyuk, Lijun Yu, Xiuye Gu, et al., Lu Jiang* <br>
-  arxiv, 2023.5[[Paper](https://arxiv.org/abs/2305.10874)], [[PDF](https://arxiv.org/pdf/2305.10874.pdf)], [[Home Page](https://sites.research.google/videopoet/)], [[Blog](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)] <br>
+  arxiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.10874)], [[PDF](https://arxiv.org/pdf/2305.10874.pdf)], [[Home Page](https://sites.research.google/videopoet/)], [[Blog](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)] <br>
 - **VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning** <br>
   Team: Tsinghua University, Beijing Film Academy <br>
   *Hong Chen, Xin Wang, Guanning Zeng, et al., WenwuZhu* <br>
-  arxiv, 2023.5[[Paper](https://arxiv.org/abs/2311.00990)], [[PDF](https://arxiv.org/pdf/2311.00990.pdf)], [[Home Page](https://videodreamer23.github.io/)],[[Code](https://github.com/videodreamer23/videodreamer23.github.io)] <br>
+  arxiv, 2023.05 [[Paper](https://arxiv.org/abs/2311.00990)], [[PDF](https://arxiv.org/pdf/2311.00990.pdf)], [[Code](https://github.com/videodreamer23/videodreamer23.github.io)], [[Home Page](https://videodreamer23.github.io/)] <br>
+- **Text2Performer: Text-Driven Human Video Generation** <br>
+  Team: Nanyang Technological University <br>
+  *Yuming Jiang, Shuai Yang, Tong Liang Koh, et al., Ziwei Liu* <br>
+  arxiv, 2023.04 [[Paper](https://arxiv.org/abs/2304.08483)], [[PDF](https://arxiv.org/pdf/2304.08483.pdf)], [[Code](https://github.com/yumingj/Text2Performer)], [[Home Page](https://yumingj.github.io/projects/Text2Performer.html)], [[[Demo(video)](https://www.youtube.com/watch?v=YwhaJUk_qo0)] <br>
 - **Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation** <br>
   Team: University of Rochester, Meta. <br>
   *Jie An, Songyang Zhang, Harry Yang, et al., Xi Yin* <br>
@@ -109,6 +177,14 @@
   Team: NVIDIA. <br>
   *Andreas Blattmann, Robin Rombach, Huan Ling, et al., Karsten Kreis* <br>
   CVPR'23, arXiv, 2023.04 [[Paper](https://arxiv.org/abs/2304.08818)], [[PDF](https://arxiv.org/pdf/2304.08818.pdf)], [[Home Page](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] <br>
+- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation** <br>
+  Team: University of Science and Technology of China, Microsoft. <br>
+  *Shengming Yin, Chenfei Wu, Huan Yang, et al. , Nan Duan* <br>
+  arXiv, 2023.03 [[Paper](https://arxiv.org/abs/2303.12346)], [[PDF](https://arxiv.org/pdf/2303.12346.pdf)], [[Home Page](https://msra-nuwa.azurewebsites.net/#/NUWAXL)] <br>
+- **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators** <br>
+  Team: Picsart AI Resarch (PAIR). <br>
+  *Levon Khachatryan, Andranik Movsisyan, Vahram Tadevosyan, et al., Humphrey Shi* <br>
+  arXiv, 2023.03 [[Paper](https://arxiv.org/abs/2303.13439)], [[PDF](https://arxiv.org/pdf/2303.13439.pdf)], [[Code](https://github.com/Picsart-AI-Research/Text2Video-Zero)], [[Home Page](https://text2video-zero.github.io/)], [[Demo(live)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)], [[Demo(video)](https://www.dropbox.com/s/uv90mi2z598olsq/Text2Video-Zero.MP4?dl=0)] <br>
 - **Structure and Content-Guided Video Synthesis with Diffusion Models** <br>
   Team: Runway <br>
   *Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis* <br>
@@ -136,7 +212,7 @@
 - **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation** `Story Visualization` <br>
   Team: UNC Chapel Hill. <br>
   *Adyasha Maharana, Darryl Hannan, Mohit Bansal* <br>
-  ECCV'22, arxiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.06192)], [[PDF](https://arxiv.org/pdf/2209.06192.pdf)], [[Code](https://github.com/adymaharana/storydalle)], [[Demo](https://replicate.com/adymaharana/story-dalle)] <br>
+  ECCV'22, arxiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.06192)], [[PDF](https://arxiv.org/pdf/2209.06192.pdf)], [[Code](https://github.com/adymaharana/storydalle)], [[[Demo(live)](https://replicate.com/adymaharana/story-dalle)] <br>
 - **Make-A-Video: Text-to-Video Generation without Text-Video Data** <br>
   Team: Meta AI. <br>
   *Uriel Singer, Adam Polyak, Thomas Hayes, et al., Yaniv Taigman* <br>
@@ -148,7 +224,7 @@
 - **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** <br>
   Team: Tsinghua University. <br>
   *Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* <br>
-  ICLR'23, arXiv, 2022.05 [[Paper](https://arxiv.org/abs/2205.15868)], [[PDF](https://arxiv.org/pdf/2205.15868.pdf)], [[Code](https://github.com/THUDM/CogVideo)], [[Home Page](https://models.aminer.cn/cogvideo/)], [[Demo](https://huggingface.co/spaces/THUDM/CogVideo)] <br>
+  ICLR'23, arXiv, 2022.05 [[Paper](https://arxiv.org/abs/2205.15868)], [[PDF](https://arxiv.org/pdf/2205.15868.pdf)], [[Code](https://github.com/THUDM/CogVideo)], [[Home Page](https://models.aminer.cn/cogvideo/)], [[[Demo(video)](https://huggingface.co/spaces/THUDM/CogVideo)] <br>
 - **Video Diffusion Models** `text-conditioned` <br>
   Team: Google. <br>
   *Jonathan Ho, Tim Salimans, Alexey Gritsenko, et al., David J. Fleet* <br>
@@ -167,10 +243,6 @@
   arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.14806)], [[PDF](https://arxiv.org/pdf/2104.14806.pdf)] <br>
 
 ## <a name="image_to_video"></a> Image-to-Video
-- **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** <br>
-  Team: Stability AI. <br>
-  *Andreas Blattmann, Tim Dockhorn, Sumith Kulal, et al., Robin Rombach* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.15127)], [[PDF](https://arxiv.org/pdf/2311.15127.pdf)], [[Code](https://github.com/Stability-AI/generative-models)] <br>
 
 ## <a name="video_to_video"></a> Video-to-Video
 - **Long video generation with time-agnostic vqgan and time-sensitive transformer** <br>
