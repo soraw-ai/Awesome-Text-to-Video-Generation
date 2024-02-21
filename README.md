@@ -1,6 +1,6 @@
 # Awesome-Video-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Topics about: <br>
-> `Text-to-Image`, `Text-to-Video`, `Image-to-Video`, `Video-to-Video`
+> `Text-to-Seq-Image`, `Text-to-Video`
 
 **This project is curated and maintained by [Rui Sun](https://github.com/ray-ruisun) and [Yumin Zhang](https://github.com/zymvszym).**
 
@@ -10,7 +10,7 @@
 * [Image-to-Video](#image_to_video)
 * [Video-to-Video](#video_to_video)
 
-## <a name="text_to_image"></a> Text-to-Image
+## <a name="text_to_seq_image"></a> Text-to-Seq-Image
 - **Scalable Diffusion Models with Transformers** `Sequential Images` <br>
   Team: UC Berkeley, NYU. <br>
   *William Peebles, Saining Xie* <br>
@@ -65,7 +65,22 @@
   Team: Stanford University Fei-Fei Li, Google. <br>
   *Agrim Gupta, Lijun Yu, Kihyuk Sohn, et al., José Lezama* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.06662)], [[PDF](https://arxiv.org/pdf/2312.06662.pdf)], [[Home Page](https://walt-video-diffusion.github.io/)] <br>
-<<<<<<< Updated upstream
+- **Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation** <br>
+  Team: HUST, Alibaba Group, Fudan University. <br>
+  *Zhiwu Qing, Shiwei Zhang, Jiayu Wang, et al., Nong Sang* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.06662)], [[PDF](https://arxiv.org/pdf/2312.06662.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl)], [[Pretrained Model](https://huggingface.co/spaces/damo-vilab/I2VGen-XL)], [[Home Page](https://higen-t2v.github.io)] <br>
+- **GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation** <br>
+  Team: HKU, Meta. <br>
+  *Shoufa Chen, Mengmeng Xu, Jiawei Ren, et al., Sen He* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.04557)], [[PDF](https://arxiv.org/pdf/2312.04557.pdf)], [[Home Page](https://www.shoufachen.com/gentron_website/)] <br>
+- **StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** <br>
+  Team: Tsinghua University, Tencent AI Lab, CUHK. <br>
+  *Gongye Liu, Menghan Xia, Yong Zhang, et al., Ying Shan* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.00330)], [[PDF](https://arxiv.org/pdf/2312.00330.pdf)], [[Code](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Home Page](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Demo](https://huggingface.co/spaces/liuhuohuo/StyleCrafter)] <br>
+- **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation** <br>
+  Team: University of Science and Technology of China, MSRA, Xi'an Jiaotong University. <br>
+  *Yanhui Wang, Jianmin Bao, Wenming Weng, et al., Baining Guo* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.18829#:~:text=Unlike%20existing%20approaches%20that%20align,%26text%2Dto%2Dvideo%20generation.)], [[PDF](https://arxiv.org/pdf/2311.18829.pdf)], [[Home Page](https://wangyanhui666.github.io/MicroCinema.github.io/)], [[Demo](https://www.youtube.com/shorts/H7O-Ku_lqPA)] <br>
 - **ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models** <br>
   Team: University of Science and Technology of China, Microsoft. <br>
   *Wenming Weng, Ruoyu Feng, Yanhui Wang, et al., Zhiwei Xiong* <br>
@@ -86,25 +101,6 @@
   Team: Zhejiang Lab. <br>
   *Shijie Ma, Huayi Xu, Mengjian Li, et al., Yaxiong Wang* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.00949)], [[PDF](https://arxiv.org/pdf/2311.00949.pdf)] <br>
-=======
-- **Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation** <br>
-  Team: HUST, Alibaba Group, Fudan University. <br>
-  *Zhiwu Qing, Shiwei Zhang, Jiayu Wang, et al., Nong Sang* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.06662)], [[PDF](https://arxiv.org/pdf/2312.06662.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl)], [[Pretrained Model](https://huggingface.co/spaces/damo-vilab/I2VGen-XL)], [[Home Page](https://higen-t2v.github.io)] <br>
-- **GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation** <br>
-  Team: HKU, Meta. <br>
-  *Shoufa Chen, Mengmeng Xu, Jiawei Ren, et al., Sen He* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.04557)], [[PDF](https://arxiv.org/pdf/2312.04557.pdf)], [[Home Page](https://www.shoufachen.com/gentron_website/)] <br>
-- **StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** <br>
-  Team: Tsinghua University, Tencent AI Lab, CUHK. <br>
-  *Gongye Liu, Menghan Xia, Yong Zhang, et al., Ying Shan* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.00330)], [[PDF](https://arxiv.org/pdf/2312.00330.pdf)], [[Code](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Home Page](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Demo](https://huggingface.co/spaces/liuhuohuo/StyleCrafter)] <br>
-- **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation** <br>
-  Team: University of Science and Technology of China, MSRA, Xi'an Jiaotong University. <br>
-  *Yanhui Wang, Jianmin Bao, Wenming Weng, et al., Baining Guo* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.18829#:~:text=Unlike%20existing%20approaches%20that%20align,%26text%2Dto%2Dvideo%20generation.)], [[PDF](https://arxiv.org/pdf/2311.18829.pdf)], [[Home Page](https://wangyanhui666.github.io/MicroCinema.github.io/)], [[Demo](https://www.youtube.com/shorts/H7O-Ku_lqPA)] <br>
-
->>>>>>> Stashed changes
 - **Make Pixels Dance: High-Dynamic Video Generation** <br>
   Team: ByteDance. <br>
   *Yan Zeng, Guoqiang Wei, Jiani Zheng, et al., Hang Li* <br>
@@ -285,6 +281,10 @@
   Team: Tsinghua University. <br>
   *Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* <br>
   ICLR'23, arXiv, 2022.05 [[Paper](https://arxiv.org/abs/2205.15868)], [[PDF](https://arxiv.org/pdf/2205.15868.pdf)], [[Code](https://github.com/THUDM/CogVideo)], [[Home Page](https://models.aminer.cn/cogvideo/)], [[[Demo(video)](https://huggingface.co/spaces/THUDM/CogVideo)] <br>
+- **Long video generation with time-agnostic vqgan and time-sensitive transformer** <br>
+  Team: Meta AI. <br>
+  *Songwei Ge, Thomas Hayes, Harry Yang, et al., Devi Parikh* <br>
+  **ECCV'22** arXiv, 2022.04 [[Paper](https://arxiv.org/abs/2204.03638)], [[PDF](https://arxiv.org/pdf/2204.03638.pdf)], [[Home Page](https://songweige.github.io/projects/tats/)], [[Code](https://github.com/SongweiGe/TATS)] <br>
 - **Video Diffusion Models** `text-conditioned` <br>
   Team: Google. <br>
   *Jonathan Ho, Tim Salimans, Alexey Gritsenko, et al., David J. Fleet* <br>
@@ -301,16 +301,6 @@
   Team: Microsoft, Duke University. <br>
   *Chenfei Wu, Lun Huang, Qianxi Zhang, et al., Nan Duan* <br>
   arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.14806)], [[PDF](https://arxiv.org/pdf/2104.14806.pdf)] <br>
-
-## <a name="image_to_video"></a> Image-to-Video
-
-## <a name="video_to_video"></a> Video-to-Video
-- **Long video generation with time-agnostic vqgan and time-sensitive transformer** <br>
-  Team: Meta AI. <br>
-  *Songwei Ge, Thomas Hayes, Harry Yang, et al., Devi Parikh* <br>
-  **ECCV'22** arXiv, 2022.4 [[Paper](https://arxiv.org/abs/2204.03638)], [[PDF](https://arxiv.org/pdf/2204.03638.pdf)], [[Home Page](https://songweige.github.io/projects/tats/)], [[Code](https://github.com/SongweiGe/TATS)] <br>
-
-
 
 ----
 ## Acknowledgement
