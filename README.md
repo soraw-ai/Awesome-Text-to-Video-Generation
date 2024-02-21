@@ -51,6 +51,18 @@
   Team: Peking University, Microsoft Research. <br>
   *Wenjing Wang, Huan Yang, Zixi Tuo, et al., Jiaying Liu* <br>
   arxiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.14125)], [[PDF](https://arxiv.org/pdf/2312.14125.pdf)] <br>
+- **TrailBlazer: Trajectory Control for Diffusion-Based Video Generation** `Training-free` <br>
+  Team: Victoria University of Wellington, NVIDIA <br>
+  *Wan-Duo Kurt Ma, J.P. Lewis, W. Bastiaan Kleijn* <br>
+  arxiv, 2023.12 [[Paper](https://arxiv.org/abs/2401.00896)], [[PDF](https://arxiv.org/pdf/2401.00896.pdf)], [[Code](https://github.com/hohonu-vicml/Trailblazer)], [[Home Page](https://hohonu-vicml.github.io/Trailblazer.Page/)], [[Demo(video)](https://www.youtube.com/watch?v=P-PSkS7sNco)]<br>
+- **FreeInit: Bridging Initialization Gap in Video Diffusion Models** `Training-free` <br>
+  Team: Nanyang Technological University <br>
+  *Tianxing Wu, Chenyang Si, Yuming Jiang, Ziqi Huang, Ziwei Liu* <br>
+  arxiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.07537)], [[PDF](https://arxiv.org/pdf/2312.07537.pdf)], [[Code](https://github.com/TianxingWu/FreeInit)], [[Home Page](https://tianxingwu.github.io/pages/FreeInit/)], [[Demo(live)](https://huggingface.co/spaces/TianxingWu/FreeInit)], [[Demo(video)](https://www.youtube.com/watch?v=lS5IYbAqriI)]<br>
+- **MTVG : Multi-text Video Generation with Text-to-Video Models** `Training-free` <br>
+  Team: Korea University, NVIDIA <br>
+  *Gyeongrok Oh, Jaehwan Jeong, Sieun Kim, et al., Sangpil Kim* <br>
+  arxiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.04086)], [[PDF](https://arxiv.org/pdf/2312.04086.pdf)], [[Code](https://github.com/TianxingWu/FreeInit)], [[Home Page](https://kuai-lab.github.io/mtvg-page/)], [[Demo(video)](https://kuai-lab.github.io/mtvg-page/)]<br>
 - **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos** <br>
   Team: HUST, Alibaba Group, Zhejiang University, Ant Group <br>
   *Xiang Wang, Shiwei Zhang, Hangjie Yuan, et al., Nong Sang* <br>
@@ -79,10 +91,33 @@
   Team: Tsinghua University, Tencent AI Lab, CUHK. <br>
   *Gongye Liu, Menghan Xia, Yong Zhang, et al., Ying Shan* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.00330)], [[PDF](https://arxiv.org/pdf/2312.00330.pdf)], [[Code](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Home Page](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Demo](https://huggingface.co/spaces/liuhuohuo/StyleCrafter)] <br>
+- **F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis** `Training-free` <br>
+  Team: University of Electronic Science and Technology of China. <br>
+  *Sitong Su, Jianzhi Liu, Lianli Gao, Jingkuan Song* <br>
+  arxiv, 2023.11 [[Paper](https://arxiv.org/abs/2312.03459)], [[PDF](https://arxiv.org/pdf/2312.03459.pdf)] <br>
+- **AdaDiff: Adaptive Step Selection for Fast Diffusion** `Training-free` <br>
+  Team: Fudan University. <br>
+  *Hui Zhang, Zuxuan Wu, Zhen Xing, Jie Shao, Yu-Gang Jiang* <br>
+  arxiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.14768)], [[PDF](https://arxiv.org/pdf/2311.14768.pdf)] <br>
+- **FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic Scene Syntax** `Training-free` <br>
+  Team: University of Technology Sydney. <br>
+  *Yu Lu, Linchao Zhu, Hehe Fan, Yi Yang* <br>
+  arxiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.15813)], [[PDF](https://arxiv.org/pdf/2311.15813.pdf)], [[Code(coming)](https://github.com/aniki-ly/FlowZero)], [[Home Page](https://flowzero-video.github.io/)] <br>
+
+
+
+
+
+
+
+
+
+
+
 - **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation** <br>
   Team: University of Science and Technology of China, MSRA, Xi'an Jiaotong University. <br>
   *Yanhui Wang, Jianmin Bao, Wenming Weng, et al., Baining Guo* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.18829#:~:text=Unlike%20existing%20approaches%20that%20align,%26text%2Dto%2Dvideo%20generation.)], [[PDF](https://arxiv.org/pdf/2311.18829.pdf)], [[Home Page](https://wangyanhui666.github.io/MicroCinema.github.io/)], [[Demo](https://www.youtube.com/shorts/H7O-Ku_lqPA)] <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.18829#:~:text=Unlike%20existing%20approaches%20that%20align,%26text%2Dto%2Dvideo%20generation.)], [[PDF](https://arxiv.org/pdf/2311.18829.pdf)], [[Home Page](https://wangyanhui666.github.io/MicroCinema.github.io/)], [[Demo(video)](https://www.youtube.com/shorts/H7O-Ku_lqPA)] <br>
 - **ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models** <br>
   Team: University of Science and Technology of China, Microsoft. <br>
   *Wenming Weng, Ruoyu Feng, Yanhui Wang, et al., Zhiwei Xiong* <br>
@@ -203,6 +238,10 @@
   Team: University of Chinese Academy of Sciences (UCAS), Alibaba Group. <br>
   *Zhengxiong Luo, Dayou Chen, Yingya Zhang, et al., Tieniu Tan* <br>
   CVPR'23, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2303.08320)], [[PDF](https://arxiv.org/pdf/2303.08320.pdf)]<br>
+- **Sketching the Future (STF): Applying Conditional Control Techniques to Text-to-Video Models** <br>
+  Team: Carnegie Mellon Univeristy. <br>
+  *Rohan Dhesikan, Vignesh Rajmohan* <br>
+  arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.05845)], [[PDF](https://arxiv.org/pdf/2305.05845.pdf)], [[Code(coming)](https://github.com/rohandkn/skribble2vid)] <br>
 - **Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** <br>
   Team: University of Maryland. <br>
   *Songwei Ge, Seungjun Nah, Guilin Liu, et al., Yogesh Balaji* <br>
@@ -303,12 +342,19 @@
   Team: Microsoft, Duke University. <br>
   *Chenfei Wu, Lun Huang, Qianxi Zhang, et al., Nan Duan* <br>
   arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.14806)], [[PDF](https://arxiv.org/pdf/2104.14806.pdf)] <br>
+- **Sync-DRAW: Automatic Video Generation using Deep Recurrent Attentive Architectures** `VAE` <br>
+  Team: IIT Hyderabad. <br>
+  *Gaurav Mittal, Tanya Marwah, Vineeth N. Balasubramanian* <br>
+  ACM MM'17, arXiv, 2016.11 [[Paper](https://arxiv.org/abs/1611.10314)], [[PDF](https://arxiv.org/pdf/1611.10314.pdf)] <br>
+
+
+
+
 
 ----
 ## Acknowledgement
 - [Awesome Text-to-Video Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)
-
-
+- [A Survey on Video Diffusion Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
 
 ## Citation
 If you find this repository useful, please consider citing this list:
