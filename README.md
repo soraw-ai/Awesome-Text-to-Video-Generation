@@ -387,13 +387,81 @@
   Team: Microsoft, Duke University. <br>
   *Chenfei Wu, Lun Huang, Qianxi Zhang, et al., Nan Duan* <br>
   arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.14806)], [[PDF](https://arxiv.org/pdf/2104.14806.pdf)] <br>
+
+- **Cross-Modal Dual Learning for Sentence-to-Video Generation** <br>
+  Team: Tsinghua University. <br>
+  *Yue Liu, Xin Wang, Yitian Yuan, Wenwu Zhu* <br>
+  ACM MM'19 [[Paper](https://dl.acm.org/doi/abs/10.1145/3343031.3350986)], [[PDF](https://dl.acm.org/doi/pdf/10.1145/3343031.3350986)]
+
+- **IRC-GAN: introspective recurrent convolutional GAN for text-to-video generation** <br>
+  Team: Peking University. <br>
+  *Kangle Deng, Tianyi Fei, Xin Huang, Yuxin Peng* <br>
+  IJCAI'19 [[Paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367347)], [[PDF](https://www.ijcai.org/Proceedings/2019/0307.pdf)]
+- **Imagine this! scripts to compositions to videos** <br>
+  Team: University of Illinois Urbana-Champaign, AI2, University of Washington. <br>
+  *Tanmay Gupta, Dustin Schwenk, Ali Farhadi, et al., Aniruddha Kembhavi* <br>
+  ECCV'18, arxiv, 2018.04 [[Paper](https://arxiv.org/abs/1804.03608)], [[PDF](https://arxiv.org/pdf/1804.03608.pdf)]
+
+- **To Create What You Tell: Generating Videos from Captions** <br>
+  Team: USTC, Microsoft Research. <br>
+  *Yingwei Pan, Zhaofan Qiu, Ting Yao, et al., Tao Mei* <br>
+  ACM MM'17, arxiv, 2018.04 [[Paper](https://arxiv.org/abs/1804.08264)], [[PDF](https://arxiv.org/pdf/1804.08264.pdf)]
+
+- **Neural Discrete Representation Learning.** <br>
+  Team: DeepMind. <br>
+  *Aaron van den Oord, Oriol Vinyals, Dinghan Shen, Koray Kavukcuoglu* <br>
+  NeurIPS'17, arxiv, 2017.11 [[Paper](https://arxiv.org/abs/1711.00937)], [[PDF](https://arxiv.org/pdf/1711.00937.pdf)] <br>
+
+- **Video Generation From Text.** <br>
+  Team: Duke University, NEC Labs America. <br>
+  *Yitong Li, Martin Renqiang Min, Dinghan Shen, et al., Lawrence Carin* <br>
+  AAAI'18, arxiv, 2017.10 [[Paper](https://arxiv.org/abs/1710.00421)], [[PDF](https://arxiv.org/pdf/1710.00421.pdf)] <br>
+
+- **Attentive semantic video generation using captions.** <br>
+  Team: IIT Hyderabad. <br>
+  *Tanya Marwah, Gaurav Mittal, Vineeth N. Balasubramanian* <br>
+  ICCV'17, arxiv, 2017.08 [[Paper](https://arxiv.org/abs/1708.05980)], [[PDF](https://arxiv.org/pdf/1708.05980.pdf)] <br>
+
 - **Sync-DRAW: Automatic Video Generation using Deep Recurrent Attentive Architectures** `VAE` <br>
   Team: IIT Hyderabad. <br>
   *Gaurav Mittal, Tanya Marwah, Vineeth N. Balasubramanian* <br>
   ACM MM'17, arXiv, 2016.11 [[Paper](https://arxiv.org/abs/1611.10314)], [[PDF](https://arxiv.org/pdf/1611.10314.pdf)] <br>
+---
+## Datasets & Metrics
+
+- **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions** `dataset` <br>
+  Team: MSRA. <br>
+  *Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al., Baining Guo* <br>
+  CVPR'22, arXiv, 2021.11[[Paper](https://arxiv.org/abs/2111.10337)], [[PDF](https://arxiv.org/pdf/2111.10337.pdf)], [[Code](https://github.com/microsoft/XPretrain/tree/main/hd-vila)], [[Dataset](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)]
 
 
 
+- **On Aliased Resizing and Surprising Subtleties in GAN Evaluation** `metric` <br>
+  Team: Carnegie Mellon University, Adobe Research. <br>
+  *Gaurav Parmar, Richard Zhang, Jun-Yan Zhu* <br>
+  CVPR'22, arxiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.11222)], [[PDF](https://arxiv.org/pdf/2104.11222.pdf)]
+- **Learning Transferable Visual Models From Natural Language Supervision** `metric` <br>
+  Team: Carnegie Mellon University, Adobe Research. <br>
+  *Alec Radford, Jong Wook Kim, Chris Hallacy, et al., Ilya Sutskever* <br>
+  ICML'21, arxiv, 2021.02 [[Paper](https://arxiv.org/abs/2103.00020)], [[PDF](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)], [[Code](https://github.com/OpenAI/CLIP)], [[Pretrained Model](https://huggingface.co/docs/transformers/model_doc/clip)]
+- **FVD: A new metric for video generation** `metric` <br>
+  Team: Johannes Kepler University, Google Brain. <br>
+  *Thomas Unterthiner, Sjoerd van Steenkiste, Karol Kurach, et al., 
+Sylvain Gelly* <br>
+  workshop at ICLR'19 [[Paper](https://openreview.net/forum?id=rylgEULtdN)], [[PDF](https://openreview.net/pdf?id=rylgEULtdN)], [[Code](https://github.com/google-research/google-research/tree/master/frechet_video_distance)]
+- **Train Sparsely, Generate Densely: Memory-efficient Unsupervised Training of High-resolution Temporal GAN** `metric` <br>
+  Team: Preferred Networks, Inc. <br>
+  *Masaki Saito, Shunta Saito, Masanori Koyama, Sosuke Kobayashi* <br>
+  IJCV'20, arxiv, 2018.11 [[Paper](https://arxiv.org/abs/1811.09245)], [[PDF](https://arxiv.org/pdf/1811.09245.pdf)]
+- **Msr-vtt: A large video description dataset for bridging video and language** `dataset`<br> 
+  Team: Microsoft Research. <br>
+  *Jun Xu , Tao Mei , Ting Yao and Yong Rui* <br>
+  CVPR'16 [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html)], [[PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)]
+
+- **UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild** `dataset` <br>
+  Team: University of Central Florida. <br>
+  *Khurram Soomro, Amir Roshan Zamir and Mubarak Shah* <br>
+  arxiv, 2012 [[Paper](https://arxiv.org/abs/1212.0402)], [[PDF](https://arxiv.org/pdf/1212.0402.pdf)], [[Home Page](http://crcv.ucf.edu/data/UCF101.php)]
 
 
 ----
