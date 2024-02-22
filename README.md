@@ -434,7 +434,10 @@
   *Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al., Baining Guo* <br>
   CVPR'22, arXiv, 2021.11[[Paper](https://arxiv.org/abs/2111.10337)], [[PDF](https://arxiv.org/pdf/2111.10337.pdf)], [[Code](https://github.com/microsoft/XPretrain/tree/main/hd-vila)], [[Dataset](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)]
 
-
+- **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** `dataset` <br>
+  Team: University of Oxford, CNRS. <br>
+  *Max Bain, Arsha Nagrani, Gül Varol, Andrew Zisserman* <br>
+  ICCV'21, arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.00650)], [[PDF](https://arxiv.org/pdf/2104.00650.pdf)],[[Dataset](https://maxbain.com/webvid-dataset/)], [[Code](https://github.com/m-bain/frozen-in-time)],[[Demo](https://meru.robots.ox.ac.uk/frozen-in-time/)], [[Home Page](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)]
 
 - **On Aliased Resizing and Surprising Subtleties in GAN Evaluation** `metric` <br>
   Team: Carnegie Mellon University, Adobe Research. <br>
