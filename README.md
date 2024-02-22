@@ -449,6 +449,11 @@
   *Thomas Unterthiner, Sjoerd van Steenkiste, Karol Kurach, et al., 
 Sylvain Gelly* <br>
   workshop at ICLR'19 [[Paper](https://openreview.net/forum?id=rylgEULtdN)], [[PDF](https://openreview.net/pdf?id=rylgEULtdN)], [[Code](https://github.com/google-research/google-research/tree/master/frechet_video_distance)]
+
+- **Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial** `dataset` <br>
+  Team: Tencent AI Lab, University of Rochester. <br>
+  *Wei Xiong, Wenhan Luo, Lin Ma, et al., Jiebo Luo* <br>
+  CVPR'18, arXiv, 2017.09 [[Paper](https://arxiv.org/abs/1709.07592)], [[PDF](https://arxiv.org/pdf/1709.07592.pdf)]
 - **Train Sparsely, Generate Densely: Memory-efficient Unsupervised Training of High-resolution Temporal GAN** `metric` <br>
   Team: Preferred Networks, Inc. <br>
   *Masaki Saito, Shunta Saito, Masanori Koyama, Sosuke Kobayashi* <br>
