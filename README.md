@@ -34,7 +34,7 @@
 - **360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model** <br>
   Team: Peking University. <br>
   *Qian Wang, Weiqi Li, Chong Mou, et al., Jian Zhang* <br>
-  arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.04468)], [[PDF](https://arxiv.org/pdf/2401.04468.pdf)], [[Code](https://github.com/Akaneqwq/360DVD)], [[Home Page](https://akaneqwq.github.io/360DVD/)] <br>
+  arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.06578)], [[PDF](https://arxiv.org/pdf/2401.06578.pdf)], [[Code](https://github.com/Akaneqwq/360DVD)], [[Home Page](https://akaneqwq.github.io/360DVD/)] <br>
 - **MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation** <br>
   Team: Bytedance Inc. <br>
   *Weimin Wang, Jiawei Liu, Zhijie Lin, et al., Jiashi Feng* <br>
