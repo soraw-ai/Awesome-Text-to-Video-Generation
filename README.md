@@ -82,7 +82,7 @@
 - **InstructVideo: Instructing Video Diffusion Models with Human Feedback** <br>
   Team: Zhejiang University, Alibaba Group, Tsinghua University <br>
   *Hangjie Yuan, Shiwei Zhang, Xiang Wang, et al., Dong Ni* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/pdf/2312.09109.pdf)], [[PDF](https://arxiv.org/pdf/2312.15770.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md)], [[Home Page](https://tf-t2v.github.io)]<br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.12490)], [[PDF](https://arxiv.org/pdf/2312.12490.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md)], [[Home Page](https://tf-t2v.github.io)]<br>
 - **VideoLCM: Video Latent Consistency Model** <br>
   Team: HUST, Alibaba Group, SJTU <br>
   *Xiang Wang, Shiwei Zhang, Han Zhang, et al., Nong Sang* <br>
