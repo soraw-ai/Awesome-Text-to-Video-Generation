@@ -78,7 +78,7 @@
 - **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos** <br>
   Team: HUST, Alibaba Group, Zhejiang University, Ant Group <br>
   *Xiang Wang, Shiwei Zhang, Hangjie Yuan, et al., Nong Sang* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.12490)], [[PDF](https://arxiv.org/pdf/2312.12490.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl)], [[Home Page](https://instructvideo.github.io/)]<br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.15770)], [[PDF](https://arxiv.org/pdf/2312.15770.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl)], [[Home Page](https://instructvideo.github.io/)]<br>
 - **InstructVideo: Instructing Video Diffusion Models with Human Feedback** <br>
   Team: Zhejiang University, Alibaba Group, Tsinghua University <br>
   *Hangjie Yuan, Shiwei Zhang, Xiang Wang, et al., Dong Ni* <br>
