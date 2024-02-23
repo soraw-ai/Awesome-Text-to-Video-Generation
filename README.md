@@ -138,7 +138,7 @@
 - **FusionFrames: Efficient Architectural Aspects for Text-to-Video Generation Pipeline** <br>
   Team: Sber AI. <br>
   *Vladimir Arkhipkin, Zein Shaheen, Viacheslav Vasilev, et al., Denis Dimitrov* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.13073)], [[PDF](https://arxiv.org/pdf/2311.13073.pdf)], [[Code](https://github.com/ai-forever/KandinskyVideo)], [[Home Page](hhttps://ai-forever.github.io/kandinsky-video/)], [[Demo(live)](https://replicate.com/cjwbw/kandinskyvideo)] <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.13073)], [[PDF](https://arxiv.org/pdf/2311.13073.pdf)], [[Code](https://github.com/ai-forever/KandinskyVideo)], [[Home Page](https://ai-forever.github.io/kandinsky-video/)], [[Demo(live)](https://replicate.com/cjwbw/kandinskyvideo)] <br>
 - **MoVideo: Motion-Aware Video Generation with Diffusion Models** <br>
   Team: ETH, Meta. <br>
   *Jingyun Liang, Yuchen Fan, Kai Zhang, et al., Rakesh Ranjan* <br>
