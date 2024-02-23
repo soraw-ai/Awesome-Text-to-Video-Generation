@@ -62,7 +62,7 @@
 - **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** <br>
   Team: Peking University, Microsoft Research. <br>
   *Wenjing Wang, Huan Yang, Zixi Tuo, et al., Jiaying Liu* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.14125)], [[PDF](https://arxiv.org/pdf/2312.14125.pdf)] <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2305.10874)], [[PDF](https://arxiv.org/pdf/2305.10874.pdf)] <br>
 - **TrailBlazer: Trajectory Control for Diffusion-Based Video Generation** `Training-free` <br>
   Team: Victoria University of Wellington, NVIDIA <br>
   *Wan-Duo Kurt Ma, J.P. Lewis, W. Bastiaan Kleijn* <br>
