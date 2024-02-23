@@ -94,7 +94,7 @@
 - **Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation** <br>
   Team: HUST, Alibaba Group, Fudan University. <br>
   *Zhiwu Qing, Shiwei Zhang, Jiayu Wang, et al., Nong Sang* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.06662)], [[PDF](https://arxiv.org/pdf/2312.06662.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl)], [[Pretrained Model](https://huggingface.co/spaces/damo-vilab/I2VGen-XL)], [[Home Page](https://higen-t2v.github.io)] <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.04483)], [[PDF](https://arxiv.org/pdf/2312.04483.pdf)], [[Code](https://github.com/ali-vilab/i2vgen-xl)], [[Pretrained Model](https://huggingface.co/spaces/damo-vilab/I2VGen-XL)], [[Home Page](https://higen-t2v.github.io)] <br>
 - **GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation** <br>
   Team: HKU, Meta. <br>
   *Shoufa Chen, Mengmeng Xu, Jiawei Ren, et al., Sen He* <br>
