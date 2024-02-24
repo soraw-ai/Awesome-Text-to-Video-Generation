@@ -150,7 +150,7 @@
 - **Make Pixels Dance: High-Dynamic Video Generation** <br>
   Team: ByteDance. <br>
   *Yan Zeng, Guoqiang Wei, Jiani Zheng, et al., Hang Li* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10982)], [[PDF](https://arxiv.org/pdf/2311.10982.pdf)], [[Home Page](https://makepixelsdance.github.io/)], [[[Demo(video)](https://www.youtube.com/watch?v=QERmPmCg9aQ)] <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10982)], [[PDF](https://arxiv.org/pdf/2311.10982.pdf)], [[Home Page](https://makepixelsdance.github.io/)], [[Demo(video)](https://www.youtube.com/watch?v=QERmPmCg9aQ)] <br>
 - **Learning Universal Policies via Text-Guided Video Generation** <br>
   Team: MIT, Google DeepMind, UC Berkeley. <br>
   *Yilun Du, Mengjiao Yang, Bo Dai, et al., Pieter Abbeel* <br>
@@ -158,7 +158,7 @@
 - **Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning** <br>
   Team: Meta. <br>
   *Rohit Girdhar, Mannat Singh, Andrew Brown, et al., Ishan Misra* <br>
-  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10709)], [[PDF](https://arxiv.org/pdf/2311.10709.pdf)], [[Home Page](https://emu-video.metademolab.com/)], [[[Demo(live)](https://emu-video.metademolab.com/#/demo)] <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10709)], [[PDF](https://arxiv.org/pdf/2311.10709.pdf)], [[Home Page](https://emu-video.metademolab.com/)], [[Demo(live)](https://emu-video.metademolab.com/#/demo)] <br>
 - **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling** `Training-free` <br>
   Team: Nanyang Technological University. <br>
   *Haonan Qiu, Menghan Xia, Yong Zhang, et al., Ziwei Liu* <br>
@@ -239,10 +239,6 @@
   Team: The Chinese University of Hong Kong. <br>
   *Yuwei Guo, Ceyuan Yang, Anyi Rao, et al., Bo Dai* <br>
   **ICLR'24 (spotlight)**, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.04725)], [[PDF](https://arxiv.org/pdf/2307.04725.pdf)], [[Code](https://github.com/guoyww/AnimateDiff)], [[Pretrained Model](https://github.com/guoyww/AnimateDiff)], [[Home Page](https://animatediff.github.io/)] <br>
-- **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** <br>
-  Team: Shanghai AI Laboratory. <br>
-  *Yi Wang, Yinan He, Yizhuo Li, et al., Yu Qiao* <br>
-  ICLR'24, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06942)], [[PDF](https://arxiv.org/pdf/2307.06942.pdf)], [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)], [[Pretrained Model](https://huggingface.co/OpenGVLab/ViCLIP)] <br>
 - **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** <br>
   Team: HKUST. <br>
   *Yingqing He, Menghan Xia, Haoxin Chen, et al., Qifeng Chen* <br>
@@ -350,7 +346,7 @@
 - **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation** `Story Visualization` <br>
   Team: UNC Chapel Hill. <br>
   *Adyasha Maharana, Darryl Hannan, Mohit Bansal* <br>
-  ECCV'22, arXiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.06192)], [[PDF](https://arxiv.org/pdf/2209.06192.pdf)], [[Code](https://github.com/adymaharana/storydalle)], [[[Demo(live)](https://replicate.com/adymaharana/story-dalle)] <br>
+  ECCV'22, arXiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.06192)], [[PDF](https://arxiv.org/pdf/2209.06192.pdf)], [[Code](https://github.com/adymaharana/storydalle)], [[Demo(live)](https://replicate.com/adymaharana/story-dalle)] <br>
 - **Make-A-Video: Text-to-Video Generation without Text-Video Data** <br>
   Team: Meta AI. <br>
   *Uriel Singer, Adam Polyak, Thomas Hayes, et al., Yaniv Taigman* <br>
@@ -425,6 +421,10 @@
   ACM MM'17, arXiv, 2016.11 [[Paper](https://arxiv.org/abs/1611.10314)], [[PDF](https://arxiv.org/pdf/1611.10314.pdf)] <br>
 
 ## Datasets & Metrics
+- **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** <br>
+  Team: Shanghai AI Laboratory. <br>
+  *Yi Wang, Yinan He, Yizhuo Li, et al., Yu Qiao* <br>
+  ICLR'24, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06942)], [[PDF](https://arxiv.org/pdf/2307.06942.pdf)], [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)], [[Pretrained Model](https://huggingface.co/OpenGVLab/ViCLIP)] <br>
 - **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions** `dataset` <br>
   Team: MSRA. <br>
   *Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al., Baining Guo* <br>
