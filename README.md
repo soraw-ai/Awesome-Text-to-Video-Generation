@@ -282,7 +282,7 @@
 - **VideoPoet: A Large Language Model for Zero-Shot Video Generation** <br>
   Team: Google Research <br>
   *Dan Kondratyuk, Lijun Yu, Xiuye Gu, et al., Lu Jiang* <br>
-  arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.10874)], [[PDF](https://arxiv.org/pdf/2305.10874.pdf)], [[Home Page](https://sites.research.google/videopoet/)], [[Blog](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)] <br>
+  arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2312.14125)], [[PDF](https://arxiv.org/pdf/2312.14125.pdf)], [[Home Page](https://sites.research.google/videopoet/)], [[Blog](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)] <br>
 - **VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning** <br>
   Team: Tsinghua University, Beijing Film Academy <br>
   *Hong Chen, Xin Wang, Guanning Zeng, et al., WenwuZhu* <br>
