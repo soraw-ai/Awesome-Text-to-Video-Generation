@@ -350,7 +350,7 @@
 - **Make-A-Video: Text-to-Video Generation without Text-Video Data** <br>
   Team: Meta AI. <br>
   *Uriel Singer, Adam Polyak, Thomas Hayes, et al., Yaniv Taigman* <br>
-  arXiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.14792)], [[PDF](https://arxiv.org/pdf/2209.14792.pdf)], [[Code](https://github.com/SooLab/Free-Bloom)]<br>
+  ICLR'23, arXiv, 2022.09 [[Paper](https://arxiv.org/abs/2209.14792)], [[PDF](https://arxiv.org/pdf/2209.14792.pdf)], [[Code](https://github.com/SooLab/Free-Bloom)]<br>
 - **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**  <br>
   Team: S-Lab, SenseTime. <br>
   *Mingyuan Zhang, Zhongang Cai, Liang Pan, et al., Ziwei Liu* <br>
