@@ -43,7 +43,7 @@
   Team: Baidu Inc. <br>
   *Ludan Ruan, Lei Tian, Chuanwei Huang, et al., Xinyan Xiao* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.09084)], [[PDF](https://arxiv.org/pdf/2401.09084.pdf)], [[Home Page](https://univg-baidu.github.io)] <br>
-- **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**
+- **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM** <br>
   Team: HiDream.ai Inc. <br>
   *Fuchen Long, Zhaofan Qiu, Ting Yao and Tao Mei* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.01256)], [[PDF](https://arxiv.org/pdf/2401.01256.pdf)], [[Home Page](https://videodrafter.github.io)] <br>
