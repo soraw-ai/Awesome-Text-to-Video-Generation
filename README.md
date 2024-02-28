@@ -319,14 +319,14 @@
   Team: Renmin University of China, Peking University, Microsoft Research  <br>
   *Ludan Ruan, Yiyang Ma, Huan Yang, et al., Baining Guo* <br>
   CVPR'23, arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.09478)], [[PDF](https://arxiv.org/pdf/2212.09478.pdf)], [[Code](https://github.com/researchmm/MM-Diffusion?tab=readme-ov-file)] <br>
-- **MagicVideo: Efficient Video Generation With Latent Diffusion Models** <br>
-  Team: ByteDance Inc. <br>
-  *Daquan Zhou, Weimin Wang, Hanshu Yan, et al., Jiashi Feng* <br>
-  arXiv, 2022.11 [[Paper](https://arxiv.org/abs/2211.11018)], [[PDF](https://arxiv.org/pdf/2211.11018.pdf)], [[Home Page](https://magicvideo.github.io/)] <br>
 - **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** <br>
   Team: Show Lab, National University of Singapore. <br>
   *Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Mike Zheng Shou et al* <br>
   **ICCV'23**, arxiv, 2022.12[[Paper](https://arxiv.org/abs/2212.11565)], [[PDF](https://arxiv.org/pdf/2212.11565.pdf)], [[Code](https://github.com/showlab/Tune-A-Video)], [[Pretrained Model](https://huggingface.co/Tune-A-Video-library)]  <br>
+- **MagicVideo: Efficient Video Generation With Latent Diffusion Models** <br>
+  Team: ByteDance Inc. <br>
+  *Daquan Zhou, Weimin Wang, Hanshu Yan, et al., Jiashi Feng* <br>
+  arXiv, 2022.11 [[Paper](https://arxiv.org/abs/2211.11018)], [[PDF](https://arxiv.org/pdf/2211.11018.pdf)], [[Home Page](https://magicvideo.github.io/)] <br>
 - **Latent Video Diffusion Models for High-Fidelity Long Video Generation** `Long Video` <br>
   Team: HKUST, Tencent AI Lab. <br>
   *Yingqing He, Tianyu Yang, Yong Zhang, Ying Shan, Qifeng Chen* <br>
