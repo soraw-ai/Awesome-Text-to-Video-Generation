@@ -422,94 +422,159 @@
 
 ## Datasets & Metrics
 
-`Datasets are divided according to their collected domains.` <br>
-`Metrics are divided as image-level, video-level.` <br>
+Datasets are divided according to their collected domains: `Face, Open, Movie, Action, Instruct`. <br>
+Metrics are divided as `image-level, video-level`. <br>
 
-- (CV-Text) **Celebv-text: A large-scale facial text-video datase** `Domain:Face`<br>
+- (CV-Text) **Celebv-text: A large-scale facial text-video datase** `Dataset (Domain:Face)`<br>
   Team: University of Sydney, SenseTime Research. <br>
   *Jianhui Yu, Hao Zhu, Liming Jiang, et al., Wayne Wu* <br>
   CVPR'23, arXiv, 2023.03 [[Paper](https://arxiv.org/abs/2303.14717)], [[PDF](https://arxiv.org/pdf/2303.14717.pdf)], [[Code](https://github.com/CelebV-Text/CelebV-Text)], [[Demo](https://www.youtube.com/watch?v=0TS1hQwjNWw)], [[Home Page](https://celebv-text.github.io/)]
 
 
-- (MSR-VTT) **Msr-vtt: A large video description dataset for bridging video and language** `Domain:Open`<br>
+- (MSR-VTT) **Msr-vtt: A large video description dataset for bridging video and language** `Dataset (Domain:Open)`<br>
   Team: Microsoft Research. <br>
   *Jun Xu , Tao Mei , Ting Yao and Yong Rui* <br>
   CVPR'16 [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html)], [[PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)]
 
 
-- (DideMo) **Localizing moments in video with natural language** `Domain:Open`<br>
+- (DideMo) **Localizing moments in video with natural language** `Dataset (Domain:Open)`<br>
   Team: UC Berkeley, Adobe <br>
   *Lisa Anne Hendricks, Oliver Wang, Eli Shechtman, et al., Bryan Russell* <br>
   ICCV'17, arXiv, 2017.08 [[Paper](https://arxiv.org/abs/1708.01641)], [[PDF](https://arxiv.org/pdf/1708.01641.pdf)]
 
 
-- (YT-Tem-180M) **Merlot: Multimodal neural script knowledge models** `Domain:Open`<br>
+- (YT-Tem-180M) **Merlot: Multimodal neural script knowledge models** `Dataset (Domain:Open)`<br>
   Team: University of Washington <br>
   *Rowan Zellers, Ximing Lu, Jack Hessel, et al., Yejin Choi* <br>
   NeurIPS'21, arXiv, 2021.06 [[Paper](https://arxiv.org/abs/2106.02636)], [[PDF](https://arxiv.org/pdf/2106.02636.pdf)], [[Code](https://github.com/rowanz/merlot)], [[Home Page](https://rowanzellers.com/merlot/)]
 
-- (WebVid2M) **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** `Domain:Open`<br>
+- (WebVid2M) **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** `Dataset (Domain:Open)`<br>
   Team: University of Oxford, CNRS. <br>
   *Max Bain, Arsha Nagrani, Gül Varol, Andrew Zisserman* <br>
   ICCV'21, arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.00650)], [[PDF](https://arxiv.org/pdf/2104.00650.pdf)],[[Dataset](https://maxbain.com/webvid-dataset/)], [[Code](https://github.com/m-bain/frozen-in-time)],[[Demo](https://meru.robots.ox.ac.uk/frozen-in-time/)], [[Home Page](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)]
 
 
-- (HD-VILA-100M) **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions** `Domain:Open`<br>
+- (HD-VILA-100M) **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions** `Dataset (Domain:Open)`<br>
   Team: Microsoft Research Asia. <br>
   *Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al., Baining Guo* <br>
   CVPR'22, arXiv, 2021.11 [[Paper](https://arxiv.org/abs/2111.10337)], [[PDF](https://arxiv.org/pdf/2111.10337.pdf)], [[Code](https://github.com/microsoft/XPretrain/tree/main/hd-vila)]
 
-- (InterVid) **Internvid: A large-scale video-text dataset for multimodal understanding and generation** `Domain:Open`<br>
+- (InterVid) **Internvid: A large-scale video-text dataset for multimodal understanding and generation** `Dataset (Domain:Open)`<br>
   Team: Shanghai AI Laboratory. <br>
   *Yi Wang, Yinan He, Yizhuo Li, et al., Yu Qiao* <br>
   arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06942)], [[PDF](https://arxiv.org/pdf/2307.06942.pdf)], [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)]
 
-- (HD-VG-130M) `Domain:Open`<br>
+- (HD-VG-130M) **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** `Dataset (Domain:Open)`<br>
+  Team: Peking University, Microsoft Research. <br>
+  *Wenjing Wang, Huan Yang, Zixi Tuo, et al., Jiaying Liu* <br>
+  arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.10874)], [[PDF](https://arxiv.org/pdf/2305.10874.pdf)]
 
-- (Youku-mPLUG) `Domain:Open`<br>
+- (Youku-mPLUG) **Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Pre-training Dataset and Benchmarks** `Dataset (Domain:Open)`<br>
+  Team: DAMO Academy, Alibaba Group. <br>
+  *Haiyang Xu, Qinghao Ye, Xuan Wu, et al., Fei Huang* <br>
+  arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2306.04362)], [[PDF](https://arxiv.org/pdf/2306.04362.pdf)]
 
-- (VAST-27M) `Domain:Open`<br>
+- (VAST-27M) **Vast: A vision-audio-subtitle-text omni-modality foundation model and dataset** `Dataset (Domain:Open)`<br>
+  Team: UCAS, CAS <br>
+  *Sihan Chen, Handong Li, Qunbo Wang, et al., Jing Liu* <br>
+  NeurIPS'23, arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.18500)], [[PDF](https://arxiv.org/pdf/2305.18500.pdf)]
 
-- (Panda-70M) `Domain:Open`<br>
+- (Panda-70M) **Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**  `Dataset (Domain:Open)`<br>
+  Team: Snap Inc., University of California, University of Trento. <br>
+  *Tsai-Shien Chen, Aliaksandr Siarohin, Willi Menapace, Sergey Tulyakov* <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.19479)], [[PDF](https://arxiv.org/pdf/2402.19479.pdf)], [[Code](https://github.com/snap-research/Panda-70M)], [[Home Page](https://snap-research.github.io/Panda-70M/)]
 
-- **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** <br>
-  Team: Shanghai AI Laboratory. <br>
-  *Yi Wang, Yinan He, Yizhuo Li, et al., Yu Qiao* <br>
-  ICLR'24, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06942)], [[PDF](https://arxiv.org/pdf/2307.06942.pdf)], [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)], [[Pretrained Model](https://huggingface.co/OpenGVLab/ViCLIP)] <br>
-- **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions** `dataset` <br>
-  Team: MSRA. <br>
-  *Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al., Baining Guo* <br>
-  CVPR'22, arXiv, 2021.11[[Paper](https://arxiv.org/abs/2111.10337)], [[PDF](https://arxiv.org/pdf/2111.10337.pdf)], [[Code](https://github.com/microsoft/XPretrain/tree/main/hd-vila)], [[Dataset](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)]
-- **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** `dataset` <br>
-  
-- **On Aliased Resizing and Surprising Subtleties in GAN Evaluation** `metric` <br>
-  Team: Carnegie Mellon University, Adobe Research. <br>
-  *Gaurav Parmar, Richard Zhang, Jun-Yan Zhu* <br>
-  CVPR'22, arxiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.11222)], [[PDF](https://arxiv.org/pdf/2104.11222.pdf)]
-- **Learning Transferable Visual Models From Natural Language Supervision** `metric` <br>
-  Team: Carnegie Mellon University, Adobe Research. <br>
-  *Alec Radford, Jong Wook Kim, Chris Hallacy, et al., Ilya Sutskever* <br>
-  ICML'21, arxiv, 2021.02 [[Paper](https://arxiv.org/abs/2103.00020)], [[PDF](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)], [[Code](https://github.com/OpenAI/CLIP)], [[Pretrained Model](https://huggingface.co/docs/transformers/model_doc/clip)]
-- **FVD: A new metric for video generation** `metric` <br>
-  Team: Johannes Kepler University, Google Brain. <br>
-  *Thomas Unterthiner, Sjoerd van Steenkiste, Karol Kurach, et al., 
-Sylvain Gelly* <br>
-  workshop at ICLR'19 [[Paper](https://openreview.net/forum?id=rylgEULtdN)], [[PDF](https://openreview.net/pdf?id=rylgEULtdN)], [[Code](https://github.com/google-research/google-research/tree/master/frechet_video_distance)]
-- **Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial** `dataset` <br>
-  Team: Tencent AI Lab, University of Rochester. <br>
-  *Wei Xiong, Wenhan Luo, Lin Ma, et al., Jiebo Luo* <br>
-  CVPR'18, arXiv, 2017.09 [[Paper](https://arxiv.org/abs/1709.07592)], [[PDF](https://arxiv.org/pdf/1709.07592.pdf)]
-- **Train Sparsely, Generate Densely: Memory-efficient Unsupervised Training of High-resolution Temporal GAN** `metric` <br>
-  Team: Preferred Networks, Inc. <br>
-  *Masaki Saito, Shunta Saito, Masanori Koyama, Sosuke Kobayashi* <br>
-  IJCV'20, arxiv, 2018.11 [[Paper](https://arxiv.org/abs/1811.09245)], [[PDF](https://arxiv.org/pdf/1811.09245.pdf)]
+- (LSMDC) **Movie description** `Dataset (Domain:Movie)` <br>
+  Team: Max Planck Institute for Informatics. <br>
+  *Anna Rohrbach, Atousa Torabi, Marcus Rohrbach, et al., Bernt Schiele* <br>
+  IJCV'17, arXiv, 2016.05 [[Paper](https://arxiv.org/abs/1605.03705)], [[PDF](https://arxiv.org/pdf/1605.03705.pdf)], [[Home Page](https://sites.google.com/site/describingmovies/)]
 
-- **UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild** `dataset` <br>
+- (MAD) **Mad: A scalable dataset for language grounding in videos from movie audio descriptions** `Dataset (Domain:Movie)` <br>
+  Team: KAUST, Adobe Research. <br>
+  *Mattia Soldan, Alejandro Pardo, Juan León Alcázar, et al., Bernard Ghanem* <br>
+  CVPR'22, arXiv, 2021.12 [[Paper](https://arxiv.org/abs/2112.00431)], [[PDF](https://arxiv.org/pdf/2112.00431.pdf)], [[Code](https://github.com/Soldelli/MAD)]
+
+- (UCF-101) **UCF101: A dataset of 101 human actions classes from videos in the wild** `Dataset (Domain:Action)` <br>
   Team: University of Central Florida. <br>
-  *Khurram Soomro, Amir Roshan Zamir and Mubarak Shah* <br>
-  arxiv, 2012 [[Paper](https://arxiv.org/abs/1212.0402)], [[PDF](https://arxiv.org/pdf/1212.0402.pdf)], [[Home Page](http://crcv.ucf.edu/data/UCF101.php)]
+  *Khurram Soomro, Amir Roshan Zamir, Mubarak Shah* <br>
+  arXiv, 2012.12 [[Paper](https://arxiv.org/abs/1212.0402)], [[PDF](https://arxiv.org/pdf/1212.0402.pdf)], [[Data](https://www.crcv.ucf.edu/data/UCF101.php)]
+
+- (ActNet-200) **Activitynet: A large-scale video benchmark for human activity understanding** `Dataset (Domain:Action)` <br>
+  Team: Universidad del Norte, KAUST <br>
+  *Fabian Caba Heilbron, Victor Escorcia, Bernard Ghanem, Juan Carlos Niebles* <br>
+  CVPR'15, [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/html/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.html)], [[PDF](https://openaccess.thecvf.com/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)], [[Home Page](http://activity-net.org/)]
+
+- (Charades) **Hollywood in homes: Crowdsourcing data collection for activity understanding** `Dataset (Domain:Action)` <br>
+  Team: Carnegie Mellon University <br>
+  *Gunnar A. Sigurdsson, Gül Varol, Xiaolong Wang, et al., Abhinav Gupta* <br>
+  ECCV'16, arXiv, 2016.04, [[Paper](https://arxiv.org/abs/1604.01753)], [[PDF](https://arxiv.org/pdf/1604.01753.pdf)], [[Home Page](https://prior.allenai.org/projects/charades)]
+
+- (Kinetics) **The kinetics human action video dataset** `Dataset (Domain:Action)` <br>
+  Team: Google <br>
+  *Will Kay, Joao Carreira, Karen Simonyan, et al., Andrew Zisserman* <br>
+  arXiv, 2017.05, [[Paper](https://arxiv.org/abs/1705.06950)], [[PDF](https://arxiv.org/pdf/1705.06950.pdf)], [[Home Page](https://deepmind.google/)]
+
+- (ActivityNet) **Dense-captioning events in videos** `Dataset (Domain:Action)` <br>
+  Team: Stanford University <br>
+  *Ranjay Krishna, Kenji Hata, Frederic Ren, et al., Juan Carlos Niebles* <br>
+  ICCV'17, arXiv, 2017.05, [[Paper](https://arxiv.org/abs/1705.00754v1)], [[PDF](https://arxiv.org/pdf/1705.00754v1.pdf)], [[Home Page](https://cs.stanford.edu/people/ranjaykrishna/densevid/)]
+
+- (Charades-Ego) **Charades-ego: A large-scale dataset of paired third and first person videos** `Dataset (Domain:Action)` <br>
+  Team: Carnegie Mellon University <br>
+  *Gunnar A. Sigurdsson, Abhinav Gupta, Cordelia Schmid, et al., Karteek Alahari* <br>
+  arXiv, 2018.04, [[Paper](https://arxiv.org/abs/1804.09626)], [[PDF](https://arxiv.org/pdf/1804.09626.pdf)], [[Home Page](https://prior.allenai.org/projects/charades-ego)]
 
 
+- (SS-V2) **The "something something" video database for learning and evaluating visual common sense** `Dataset (Domain:Action)` <br>
+  *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, et al., Roland Memisevic* <br>
+  ICCV'17, arXiv, 2017.06 [[Paper](https://arxiv.org/abs/1706.04261)], [[PDF](https://arxiv.org/pdf/1706.04261.pdf)], [[Home Page](https://developer.qualcomm.com/software/ai-datasets/something-something)]
+- (How2) **How2: a large-scale dataset for multimodal language understanding** `Dataset (Domain:Instruct)` <br>
+  Team: Carnegie Mellon University. <br>
+  *Ramon Sanabria, Ozan Caglayan, Shruti Palaskar, et al., Florian Metze* <br>
+  arXiv, 2018.11 [[Page](https://arxiv.org/abs/1811.00347)], [[PDF](https://arxiv.org/pdf/1811.00347.pdf)]
+- (HowTo100M) **HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips** `Dataset (Domain:Instruct)` <br>
+  Team: Ecole Normale Superieure, Inria, CIIRC. <br>
+  *Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, et al., Josef Sivic* <br>
+  arXiv, 2019.06 [[Page](https://arxiv.org/abs/1906.03327)], [[PDF](https://arxiv.org/pdf/1906.03327.pdf)], [[Home Page](https://www.di.ens.fr/willow/research/howto100m/)] <br>
+- (YouCook2) **Towards automatic learning of procedures from web instructional video** `Dataset (Domain:Cooking)` <br>
+  Team: University of Michigan, University of Rochester <br>
+  *Luowei Zhou, Chenliang Xu, Jason J. Corso* <br>
+  AAAI'18, arXiv, 2017.03 , [[Paper](https://arxiv.org/abs/1703.09788)], [[PDF](https://arxiv.org/pdf/1703.09788.pdf)],[[Home Page](http://youcook2.eecs.umich.edu/)]
+- (Epic-Kichens) **Scaling egocentric vision: The epic-kitchens dataset** `Dataset (Domain:Cookding)` <br>
+  Team: Uni. of Bristol, Uni. of Catania, Uni. of Toronto. <br>
+  *Dima Damen, Hazel Doughty, Giovanni Maria Farinella, et al., Michael Wray* <br>
+  ECCV'18, arXiv, 2018.04, [[Paper](https://arxiv.org/abs/1804.02748)], [[PDF](https://arxiv.org/pdf/1804.02748.pdf)], [[Home Page](https://epic-kitchens.github.io/2024)] <br>
+
+- (PSNR/SSIM) **Image quality assessment: from error visibility to structural similarity** `Metric (image-level)` <br>
+  Team: New York University. <br>
+  *Zhou Wang, Alan Conrad Bovik, Hamid Rahim Sheikh, E.P. Simoncelli* <br>
+  IEEE TIP, 2004.04. [[Paper](https://ieeexplore.ieee.org/abstract/document/1284395)], [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395)] <br>
+- (IS) **Improved techniques for training gans** `Metric (image-level)` <br>
+  Team: OpenAI <br>
+  *Tim Salimans, Ian Goodfellow, Wojciech Zaremba, et al., Xi Chen* <br>
+  NeurIPS'16, arXiv, 2016.06, [[Paper](https://arxiv.org/abs/1606.03498)], [[PDF](https://arxiv.org/pdf/1606.03498.pdf)], [[Code](https://github.com/openai/improved-gan)] <br>
+- (FID) **Gans trained by a two time-scale update rule converge to a local nash equilibrium** `Metric (image-level)` <br>
+  Team: Johannes Kepler University Linz <br>
+  *Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, et al., Sepp Hochreiter* <br>
+  NeurIPS'17, arXiv, 2017.06 [[Paper](https://arxiv.org/abs/1706.08500)], [[PDF](https://arxiv.org/pdf/1706.08500.pdf)]
+
+- (CLIP Score) **Learning transferable visual models from natural language supervision** `Metric (image-level)` <br>
+  Team: OpenAI. <br>
+  *Alec Radford, Jong Wook Kim, Chris Hallacy, et al., Ilya Sutskever* <br>
+  ICML'21, arXiv, 2021.02 [[Paper](https://arxiv.org/abs/2103.00020)], [[PDF](https://arxiv.org/pdf/2103.00020.pdf)], [[Code](https://github.com/OpenAI/CLIP)] <br>
+
+- (Video IS) **Train sparsely, generate densely: Memory-efficient unsupervised training of high-resolution temporal gan** `Metric (video-level)` <br>
+  *Masaki Saito, Shunta Saito, Masanori Koyama, Sosuke Kobayashi* <br>
+  IJCV'20, arXiv, 2018.11 [[Paper](https://arxiv.org/abs/1811.09245)], [[PDF](https://arxiv.org/pdf/1811.09245.pdf)], [[Code](https://github.com/pfnet-research/tgan2)]<br>
+- (FVD/KVD) **FVD: A new metric for video generation** `Metric (video-level)` <br>
+  Team: Johannes Kepler University, Google <br>
+  *Thomas Unterthiner, Sjoerd van Steenkiste, Karol Kurach, et al., Sylvain Gelly* <br>
+  ICLR'19, arXiv, 2018.12 [[Paper](https://arxiv.org/abs/1812.01717)], [[PDF](https://arxiv.org/pdf/1812.01717.pdf)], [[Code](https://github.com/google-research/google-research/tree/master/frechet_video_distance)]
+
+- (FCS) **Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation** `Metric (video-level)` <br>
+  Team: Show Lab, National University of Singapore. <br>
+  *Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Mike Zheng Shou et al* <br>
+  ICCV'23, arxiv, 2022.12[[Paper](https://arxiv.org/abs/2212.11565)], [[PDF](https://arxiv.org/pdf/2212.11565.pdf)], [[Code](https://github.com/showlab/Tune-A-Video)], [[Pretrained Model](https://huggingface.co/Tune-A-Video-library)]  <br>
 ----
 ## Acknowledgement
 - [Awesome Text-to-Video Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)
