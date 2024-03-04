@@ -421,6 +421,57 @@
   ACM MM'17, arXiv, 2016.11 [[Paper](https://arxiv.org/abs/1611.10314)], [[PDF](https://arxiv.org/pdf/1611.10314.pdf)] <br>
 
 ## Datasets & Metrics
+
+`Datasets are divided according to their collected domains.` <br>
+`Metrics are divided as image-level, video-level.` <br>
+
+- (CV-Text) **Celebv-text: A large-scale facial text-video datase** `Domain:Face`<br>
+  Team: University of Sydney, SenseTime Research. <br>
+  *Jianhui Yu, Hao Zhu, Liming Jiang, et al., Wayne Wu* <br>
+  CVPR'23, arXiv, 2023.03 [[Paper](https://arxiv.org/abs/2303.14717)], [[PDF](https://arxiv.org/pdf/2303.14717.pdf)], [[Code](https://github.com/CelebV-Text/CelebV-Text)], [[Demo](https://www.youtube.com/watch?v=0TS1hQwjNWw)], [[Home Page](https://celebv-text.github.io/)]
+
+
+- (MSR-VTT) **Msr-vtt: A large video description dataset for bridging video and language** `Domain:Open`<br>
+  Team: Microsoft Research. <br>
+  *Jun Xu , Tao Mei , Ting Yao and Yong Rui* <br>
+  CVPR'16 [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html)], [[PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)]
+
+
+- (DideMo) **Localizing moments in video with natural language** `Domain:Open`<br>
+  Team: UC Berkeley, Adobe <br>
+  *Lisa Anne Hendricks, Oliver Wang, Eli Shechtman, et al., Bryan Russell* <br>
+  ICCV'17, arXiv, 2017.08 [[Paper](https://arxiv.org/abs/1708.01641)], [[PDF](https://arxiv.org/pdf/1708.01641.pdf)]
+
+
+- (YT-Tem-180M) **Merlot: Multimodal neural script knowledge models** `Domain:Open`<br>
+  Team: University of Washington <br>
+  *Rowan Zellers, Ximing Lu, Jack Hessel, et al., Yejin Choi* <br>
+  NeurIPS'21, arXiv, 2021.06 [[Paper](https://arxiv.org/abs/2106.02636)], [[PDF](https://arxiv.org/pdf/2106.02636.pdf)], [[Code](https://github.com/rowanz/merlot)], [[Home Page](https://rowanzellers.com/merlot/)]
+
+- (WebVid2M) **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** `Domain:Open`<br>
+  Team: University of Oxford, CNRS. <br>
+  *Max Bain, Arsha Nagrani, Gül Varol, Andrew Zisserman* <br>
+  ICCV'21, arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.00650)], [[PDF](https://arxiv.org/pdf/2104.00650.pdf)],[[Dataset](https://maxbain.com/webvid-dataset/)], [[Code](https://github.com/m-bain/frozen-in-time)],[[Demo](https://meru.robots.ox.ac.uk/frozen-in-time/)], [[Home Page](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)]
+
+
+- (HD-VILA-100M) **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions** `Domain:Open`<br>
+  Team: Microsoft Research Asia. <br>
+  *Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al., Baining Guo* <br>
+  CVPR'22, arXiv, 2021.11 [[Paper](https://arxiv.org/abs/2111.10337)], [[PDF](https://arxiv.org/pdf/2111.10337.pdf)], [[Code](https://github.com/microsoft/XPretrain/tree/main/hd-vila)]
+
+- (InterVid) **Internvid: A large-scale video-text dataset for multimodal understanding and generation** `Domain:Open`<br>
+  Team: Shanghai AI Laboratory. <br>
+  *Yi Wang, Yinan He, Yizhuo Li, et al., Yu Qiao* <br>
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06942)], [[PDF](https://arxiv.org/pdf/2307.06942.pdf)], [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)]
+
+- (HD-VG-130M) `Domain:Open`<br>
+
+- (Youku-mPLUG) `Domain:Open`<br>
+
+- (VAST-27M) `Domain:Open`<br>
+
+- (Panda-70M) `Domain:Open`<br>
+
 - **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** <br>
   Team: Shanghai AI Laboratory. <br>
   *Yi Wang, Yinan He, Yizhuo Li, et al., Yu Qiao* <br>
@@ -430,9 +481,7 @@
   *Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al., Baining Guo* <br>
   CVPR'22, arXiv, 2021.11[[Paper](https://arxiv.org/abs/2111.10337)], [[PDF](https://arxiv.org/pdf/2111.10337.pdf)], [[Code](https://github.com/microsoft/XPretrain/tree/main/hd-vila)], [[Dataset](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)]
 - **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** `dataset` <br>
-  Team: University of Oxford, CNRS. <br>
-  *Max Bain, Arsha Nagrani, Gül Varol, Andrew Zisserman* <br>
-  ICCV'21, arXiv, 2021.04 [[Paper](https://arxiv.org/abs/2104.00650)], [[PDF](https://arxiv.org/pdf/2104.00650.pdf)],[[Dataset](https://maxbain.com/webvid-dataset/)], [[Code](https://github.com/m-bain/frozen-in-time)],[[Demo](https://meru.robots.ox.ac.uk/frozen-in-time/)], [[Home Page](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)]
+  
 - **On Aliased Resizing and Surprising Subtleties in GAN Evaluation** `metric` <br>
   Team: Carnegie Mellon University, Adobe Research. <br>
   *Gaurav Parmar, Richard Zhang, Jun-Yan Zhu* <br>
@@ -454,10 +503,7 @@ Sylvain Gelly* <br>
   Team: Preferred Networks, Inc. <br>
   *Masaki Saito, Shunta Saito, Masanori Koyama, Sosuke Kobayashi* <br>
   IJCV'20, arxiv, 2018.11 [[Paper](https://arxiv.org/abs/1811.09245)], [[PDF](https://arxiv.org/pdf/1811.09245.pdf)]
-- **Msr-vtt: A large video description dataset for bridging video and language** `dataset`<br> 
-  Team: Microsoft Research. <br>
-  *Jun Xu , Tao Mei , Ting Yao and Yong Rui* <br>
-  CVPR'16 [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html)], [[PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)]
+
 - **UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild** `dataset` <br>
   Team: University of Central Florida. <br>
   *Khurram Soomro, Amir Roshan Zamir and Mubarak Shah* <br>
