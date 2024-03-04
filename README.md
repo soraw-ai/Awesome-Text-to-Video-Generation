@@ -1,4 +1,4 @@
-# Awesome-Video-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Text-to-Video-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Topics about: <br>
 > `Text-to-Seq-Image`, `Text-to-Video`
 
@@ -584,10 +584,10 @@ Metrics are divided as `image-level, video-level`. <br>
 If you find this repository useful, please consider citing this list:
 ```
 @misc{rui2023videogenerationlist,
-    title = {Awesome-Video-Generation},
+    title = {Awesome-Text-to-Video-Generation},
     author = {Rui Sun, Yumin Zhang},
     journal = {GitHub repository},
-    url = {https://github.com/soraw-ai/Awesome-Video-Generation},
+    url = {https://github.com/soraw-ai/Awesome-Text-to-Video-Generation},
     year = {2024},
 }
 ```
