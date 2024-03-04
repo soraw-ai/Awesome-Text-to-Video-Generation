@@ -583,7 +583,7 @@ Metrics are divided as `image-level, video-level`. <br>
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```
-@misc{rui2023videogenerationlist,
+@misc{rui2024t2vgenerationlist,
     title = {Awesome-Text-to-Video-Generation},
     author = {Rui Sun, Yumin Zhang},
     journal = {GitHub repository},
