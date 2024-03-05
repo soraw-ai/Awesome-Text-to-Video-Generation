@@ -102,7 +102,11 @@
 - **StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** <br>
   Team: Tsinghua University, Tencent AI Lab, CUHK. <br>
   *Gongye Liu, Menghan Xia, Yong Zhang, et al., Ying Shan* <br>
-  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.00330)], [[PDF](https://arxiv.org/pdf/2312.00330.pdf)], [[Code](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Home Page](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Demo](https://huggingface.co/spaces/liuhuohuo/StyleCrafter)] <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.00330)], [[PDF](https://arxiv.org/pdf/2312.00330.pdf)], [[Code](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Home Page](https://gongyeliu.github.io/StyleCrafter.github.io/)], [[Demo(live)](https://huggingface.co/spaces/liuhuohuo/StyleCrafter)] <br>
+- **GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation** `Multimodal` <br> 
+  Team: Tencent. <br>
+  *Zhanyu Wang, Longyue Wang, Zhen Zhao, et al., Zhaopeng Tu* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.16511)], [[PDF](https://arxiv.org/pdf/2311.16511.pdf)], [[Code](https://github.com/gpt4video/GPT4Video)], [[Pretrained Model](https://github.com/gpt4video/GPT4Video)], [[Home Page](https://gpt4video.github.io/)] <br>
 - **F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis** `Training-free` <br>
   Team: University of Electronic Science and Technology of China. <br>
   *Sitong Su, Jianzhi Liu, Lianli Gao, Jingkuan Song* <br>
@@ -575,6 +579,7 @@ Metrics are divided as `image-level, video-level`. <br>
   Team: Show Lab, National University of Singapore. <br>
   *Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Mike Zheng Shou et al* <br>
   ICCV'23, arxiv, 2022.12[[Paper](https://arxiv.org/abs/2212.11565)], [[PDF](https://arxiv.org/pdf/2212.11565.pdf)], [[Code](https://github.com/showlab/Tune-A-Video)], [[Pretrained Model](https://huggingface.co/Tune-A-Video-library)]  <br>
+
 ----
 ## Acknowledgement
 - [Awesome Text-to-Video Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)
