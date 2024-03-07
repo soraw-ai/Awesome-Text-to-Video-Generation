@@ -443,6 +443,33 @@ In this survey, We have conducted a comprehensive exploration of existing works 
 
 ## <a name="dataset_and_metrics"></a> Datasets & Metrics
 
+|       Dataset |    Domain |  Annotated |  #Clips |   #Sent |  Len_C(s) |  Len_S |  #Videos |  Resolution |  FPS |  Dur(h) |  Year  |   Source |
+|--------------:|----------:|-----------:|--------:|--------:|----------:|-------:|---------:|------------:|-----:|--------:|:------:|---------:|
+|   **CV-Text** |      Face |  Generated |     70K |   1400K |         - |   67.2 |        - |        480P |    - |       - |  2023  |   Online |
+|   **MSR-VTT** |      Open |     Manual |     10K |    200K |     15.0s |    9.3 |     7.2K |        240P |   30 |      40 |  2016  |  YouTube |
+|    **DideMo** |      Open |     Manual |     27K |     41K |      6.9s |    8.0 |    10.5K |           - |    - |      87 |  2017  |   Flickr |
+|  **Y-T-180M** |      Open |        ASR |    180M |       - |         - |      - |       6M |           - |    - |       - |  2021  |  YouTube |
+|    **WVid2M** |      Open |   Alt-text |    2.5M |    2.5M |      18.0 |   12.0 |     2.5M |        360P |    - |     13K |  2021  |      Web |
+|    **H-100M** |      Open |        ASR |    103M |       - |      13.4 |   32.5 |     3.3M |        720P |    - |  371.5K |  2022  |  YouTube |
+| **InternVid** |      Open |  Generated |    234M |       - |      11.7 |   17.6 |     7.1M |       *720P |    - |  760.3K |  2023  |  YouTube |
+|    **H-130M** |      Open |  Generated |    130M |    130M |         - |   10.0 |        - |        720P |    - |       - |  2023  |  YouTube |
+|      **Y-mP** |      Open |     Manual |     10M |     10M |      54.2 |      - |        - |           - |    - |    150K |  2023  |    Youku |
+|     **V-27M** |      Open |  Generated |     27M |    135M |      12.5 |      - |        - |           - |    - |       - |  2024  |  YouTube |
+|     **P-70M** |      Open |  Generated |       - |   70.8M |       8.5 |   13.2 |    70.8M |        720P |    - |  166.8K |  2024  |  YouTube |
+|     **LSMDC** |     Movie |     Manual |    118K |    118K |      4.8s |    7.0 |      200 |       1080P |    - |     158 |  2017  |    Movie |
+|       **MAD** |     Movie |     Manual |       - |    384K |         - |   12.7 |      650 |           - |    - |    1.2K |  2022  |    Movie |
+|   **UCF-101** |    Action |     Manual |     13K |       - |      7.2s |      - |        - |        240P |   25 |      27 |  2012  |  YouTube |
+|  **ANet-200** |    Action |     Manual |    100K |       - |         - |   13.5 |       2K |       *720P |   30 |     849 |  2015  |  YouTube |
+|  **Charades** |    Action |     Manual |     10K |     16K |         - |      - |      10K |           - |    - |      82 |  2016  |     Home |
+|  **Kinetics** |    Action |     Manual |    306K |       - |     10.0s |      - |     306K |           - |    - |       - |  2017  |  YouTube |
+|    **ActNe**t |    Action |     Manual |    100K |    100K |     36.0s |   13.5 |      20K |           - |    - |     849 |  2017  |  YouTube |
+|     **C-Ego** |    Action |     Manual |       - |       - |         - |      - |       8K |        240P |    - |      69 |  2018  |     Home |
+|     **SS-V2** |    Action |     Manual |       - |       - |         - |      - |   220.1K |           - |   12 |       - |  2018  |    Daily |
+|      **How2** |  Instruct |     Manual |     80K |     80K |      90.0 |   20.0 |    13.1K |           - |    - |    2000 |  2018  |  YouTube |
+|    **HT100M** |  Instruct |        ASR |    136M |    136M |       3.6 |    4.0 |     1.2M |        240P |    - |  134.5K |  2019  |  YouTube |
+|    **YCook2** |   Cooking |     Manual |     14K |     14K |      19.6 |    8.8 |       2K |           - |    - |     176 |  2018  |  YouTube |
+|     **E-Kit** |   Cooking |     Manual |     40K |     40K |         - |      - |      432 |      *1080P |   60 |      55 |  2018  |     Home |
+
 Datasets are divided according to their collected domains: `Face, Open, Movie, Action, Instruct`. <br>
 Metrics are divided as `image-level, video-level`. <br>
 
