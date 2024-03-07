@@ -1,12 +1,29 @@
 # Awesome-Text-to-Video-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> Topics about: <br>
-> `Text-to-Seq-Image`, `Text-to-Video`
+A curated (continually updated) list of Text-to-Video studies. It's based on our survey paper: [From Sora What We Can See: A Survey of Text-to-Video Generation]().
+In this survey, We have conducted a comprehensive exploration of existing works in the Text-to-Video field using OpenAI’s Sora as a clue, and we have also summarized 24 datasets and 9 evaluation metrics in this field. Specifically, we discussed the problems existing in this research area and Sora itself, combined with the advantages of Sora and the characteristics of related fields to provide future research directions. If our work can inspire you, feel free to cite our paper and star our repo.
 
 **This project is curated and maintained by [Rui Sun](https://github.com/ray-ruisun) and [Yumin Zhang](https://github.com/zymvszym).**
+
+```
+@article{ ,
+    title={From Sora What We Can See: A Survey of Text-to-Video Generation}, 
+    author={Rui~Sun, Yumin~Zhang, Tejal Shah, Jiaohao Sun, Shuoying Zhang, Wenqi Li, Haoran Duan, Bo Wei, and Rajiv Ranjan},
+    year={2024},
+    eprint={ },
+    archivePrefix={arXiv},
+    primaryClass={cs.AI}
+}
+```
+![](imgs/structure.png)
+![](imgs/evo_timeline.png)
+
+> Topics of this repo cover: <br>
+> `Text-to-Seq-Image`, `Text-to-Video`
 
 ## Table of Content
 * [Text-to-Seq-Image](#text_to_seq_image)
 * [Text-to-Video](#text_to_video)
+* [Dataset & Metrics](#dataset_and_metrics)
 
 ## <a name="text_to_seq_image"></a> Text-to-Seq-Image
 - **LivePhoto: Real Image Animation with Text-guided Motion Control**  <br>
@@ -424,7 +441,7 @@
   *Gaurav Mittal, Tanya Marwah, Vineeth N. Balasubramanian* <br>
   ACM MM'17, arXiv, 2016.11 [[Paper](https://arxiv.org/abs/1611.10314)], [[PDF](https://arxiv.org/pdf/1611.10314.pdf)] <br>
 
-## Datasets & Metrics
+## <a name="dataset_and_metrics"></a> Datasets & Metrics
 
 Datasets are divided according to their collected domains: `Face, Open, Movie, Action, Instruct`. <br>
 Metrics are divided as `image-level, video-level`. <br>
@@ -586,8 +603,17 @@ Metrics are divided as `image-level, video-level`. <br>
 - [A Survey on Video Diffusion Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
 
 ## Citation
-If you find this repository useful, please consider citing this list:
+If you find this repository useful, please consider citing our paper and this list:
 ```
+@article{ ,
+    title={From Sora What We Can See: A Survey of Text-to-Video Generation}, 
+    author={Rui~Sun, Yumin~Zhang, Tejal Shah, Jiaohao Sun, Shuoying Zhang, Wenqi Li, Haoran Duan, Bo Wei, and Rajiv Ranjan},
+    year={2024},
+    eprint={ },
+    archivePrefix={arXiv},
+    primaryClass={cs.AI}
+}
+
 @misc{rui2024t2vgenerationlist,
     title = {Awesome-Text-to-Video-Generation},
     author = {Rui Sun, Yumin Zhang},
