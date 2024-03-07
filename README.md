@@ -442,6 +442,8 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   ACM MM'17, arXiv, 2016.11 [[Paper](https://arxiv.org/abs/1611.10314)], [[PDF](https://arxiv.org/pdf/1611.10314.pdf)] <br>
 
 ## <a name="dataset_and_metrics"></a> Datasets & Metrics
+Datasets are divided according to their collected domains: `Face, Open, Movie, Action, Instruct`. <br>
+Metrics are divided as `image-level, video-level`. <br>
 
 |       Dataset |    Domain |  Annotated |  #Clips |   #Sent |  Len_C(s) |  Len_S |  #Videos |  Resolution |  FPS |  Dur(h) |  Year  |   Source |
 |--------------:|----------:|-----------:|--------:|--------:|----------:|-------:|---------:|------------:|-----:|--------:|:------:|---------:|
@@ -469,9 +471,6 @@ In this survey, We have conducted a comprehensive exploration of existing works 
 |    **HT100M** |  Instruct |        ASR |    136M |    136M |       3.6 |    4.0 |     1.2M |        240P |    - |  134.5K |  2019  |  YouTube |
 |    **YCook2** |   Cooking |     Manual |     14K |     14K |      19.6 |    8.8 |       2K |           - |    - |     176 |  2018  |  YouTube |
 |     **E-Kit** |   Cooking |     Manual |     40K |     40K |         - |      - |      432 |      *1080P |   60 |      55 |  2018  |     Home |
-
-Datasets are divided according to their collected domains: `Face, Open, Movie, Action, Instruct`. <br>
-Metrics are divided as `image-level, video-level`. <br>
 
 - (CV-Text) **Celebv-text: A large-scale facial text-video datase** `Dataset (Domain:Face)`<br>
   Team: University of Sydney, SenseTime Research. <br>
