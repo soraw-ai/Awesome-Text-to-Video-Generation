@@ -472,6 +472,12 @@ Metrics are divided as `image-level, video-level`. <br>
 |    **YCook2** |   Cooking |     Manual |     14K |     14K |      19.6 |    8.8 |       2K |           - |    - |     176 |  2018  |  YouTube |
 |     **E-Kit** |   Cooking |     Manual |     40K |     40K |         - |      - |      432 |      *1080P |   60 |      55 |  2018  |     Home |
 
+
+- (VidProM) **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models** `Dataset (adding)` <br>
+  Team: ReLER Lab. <br>
+  *Wenhao Wang, Yi Yang* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.06098)], [[PDF](https://arxiv.org/pdf/2403.06098.pdf)], [[Code](https://github.com/WangWenhao0716/VidProM)], [[Hugging Face](https://huggingface.co/datasets/WenhaoWang/VidProM)]
+
 - (CV-Text) **Celebv-text: A large-scale facial text-video datase** `Dataset (Domain:Face)`<br>
   Team: University of Sydney, SenseTime Research. <br>
   *Jianhui Yu, Hao Zhu, Liming Jiang, et al., Wayne Wu* <br>
