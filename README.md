@@ -642,12 +642,12 @@ If you find this repository useful, please consider citing our paper and this li
   year={2024}
 }
 
-@misc{rui2024t2vgenerationlist,
-    title = {Awesome-Text-to-Video-Generation},
-    author = {Rui Sun, Yumin Zhang},
-    journal = {GitHub repository},
-    url = {https://github.com/soraw-ai/Awesome-Text-to-Video-Generation},
-    year = {2024},
+@misc{sun2024t2vgenerationlist,
+  title={Awesome-Text-to-Video-Generation},
+  author={Sun, Rui and Zhang, Yumin},
+  year={2024},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/soraw-ai/Awesome-Text-to-Video-Generation}},
 }
 ```
 
