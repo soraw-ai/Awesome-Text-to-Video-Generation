@@ -628,7 +628,7 @@ Metrics are divided as `image-level, video-level`. <br>
   ICCV'23, arxiv, 2022.12[[Paper](https://arxiv.org/abs/2212.11565)], [[PDF](https://arxiv.org/pdf/2212.11565.pdf)], [[Code](https://github.com/showlab/Tune-A-Video)], [[Pretrained Model](https://huggingface.co/Tune-A-Video-library)]  <br>
 
 ----
-## Acknowledgement
+## Acknowledgement and References
 - [Awesome Text-to-Video Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)
 - [A Survey on Video Diffusion Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
 
@@ -651,5 +651,4 @@ If you find this repository useful, please consider citing our paper and this li
 }
 ```
 
-## References
 
