@@ -476,6 +476,11 @@ Metrics are divided as `image-level, video-level`. <br>
   *Wenhao Wang, Yi Yang* <br>
   arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.06098)], [[PDF](https://arxiv.org/pdf/2403.06098.pdf)], [[Code](https://github.com/WangWenhao0716/VidProM)], [[Hugging Face](https://huggingface.co/datasets/WenhaoWang/VidProM)]
 
+- (ECTV) **EvalCrafter: Benchmarking and Evaluating Large Video Generation Models** `Dataset (adding)`<br>
+  Team: Tencent AI Lab, CUHK. <br>
+  *Yaofang Liu, Xiaodong Cun, Xuebo Liu, et al., Ying Shan* <br>
+  CVPR'24, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.11440)], [[PDF](https://arxiv.org/pdf/2310.11440.pdf)], [[Code](https://github.com/EvalCrafter/EvalCrafter)], [[Dataset](https://huggingface.co/datasets/RaphaelLiu/EvalCrafter_T2V_Dataset)], [[Home Page](https://evalcrafter.github.io/)]
+
 - (CV-Text) **Celebv-text: A large-scale facial text-video datase** `Dataset (Domain:Face)`<br>
   Team: University of Sydney, SenseTime Research. <br>
   *Jianhui Yu, Hao Zhu, Liming Jiang, et al., Wayne Wu* <br>
