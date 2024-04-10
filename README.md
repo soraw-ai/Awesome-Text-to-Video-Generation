@@ -314,6 +314,10 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: University of Rochester, Meta. <br>
   *Jie An, Songyang Zhang, Harry Yang, et al., Xi Yin* <br>
   arXiv, 2023.04 [[Paper](https://arxiv.org/abs/2304.08477)], [[PDF](https://arxiv.org/pdf/2304.08477.pdf)], [[Home Page](https://latent-shift.github.io/)] <br>
+- **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** <br>
+  Team: Tsinghua University, HKUST. <br>
+  *Yue Ma, Yingqing He, Xiaodong Cun, et al., Qifeng Chen* <br>
+  AAAI'24, arXiv, 2023.04 [[Paper](https://arxiv.org/abs/2304.01186)], [[PDF](https://arxiv.org/pdf/2304.01186.pdf)], [[Home Page](https://follow-your-pose.github.io/)], [[Code](https://github.com/mayuelala/FollowYourPose)] <br>
 - **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** <br>
   Team: NVIDIA. <br>
   *Andreas Blattmann, Robin Rombach, Huan Ling, et al., Karsten Kreis* <br>
