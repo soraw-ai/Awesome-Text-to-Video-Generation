@@ -5,10 +5,10 @@ In this survey, We have conducted a comprehensive exploration of existing works 
 **This project is curated and maintained by [Rui Sun](https://github.com/ray-ruisun) and [Yumin Zhang](https://github.com/zymvszym).**
 
 ```
-@article{sun2024from,
+@article{sun2024sora,
   title={From Sora What We Can See: A Survey of Text-to-Video Generation},
-  author={Sun, Rui and Zhang, Yumin and Shah, Tejal and Sun, Jiaohao and Zhang, Shuoying and Li, Wenqi and Duan, Haoran and Wei, Bo and Ranjan, Rajiv},
-  journal={arXiv preprint arXiv:},
+  author={Sun, Rui and Zhang, Yumin and Shah, Tejal and Sun, Jiahao and Zhang, Shuoying and Li, Wenqi and Duan, Haoran and Wei, Bo and Ranjan, Rajiv},
+  journal={arXiv preprint arXiv:2405.10674},
   year={2024}
 }
 ```
@@ -644,10 +644,10 @@ Metrics are divided as `image-level, video-level`. <br>
 ## Citation
 If you find this repository useful, please consider citing our paper and this list:
 ```
-@article{sun2024from,
+@article{sun2024sora,
   title={From Sora What We Can See: A Survey of Text-to-Video Generation},
-  author={Sun, Rui and Zhang, Yumin and Shah, Tejal and Sun, Jiaohao and Zhang, Shuoying and Li, Wenqi and Duan, Haoran and Wei, Bo and Ranjan, Rajiv},
-  journal={arXiv preprint arXiv:},
+  author={Sun, Rui and Zhang, Yumin and Shah, Tejal and Sun, Jiahao and Zhang, Shuoying and Li, Wenqi and Duan, Haoran and Wei, Bo and Ranjan, Rajiv},
+  journal={arXiv preprint arXiv:2405.10674},
   year={2024}
 }
 
