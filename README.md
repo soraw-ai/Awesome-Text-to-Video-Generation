@@ -506,6 +506,20 @@ Metrics are divided as `image-level, video-level`. <br>
 |    **YCook2** |   Cooking |     Manual |     14K |     14K |      19.6 |    8.8 |       2K |           - |    - |     176 |  2018  |  YouTube |
 |     **E-Kit** |   Cooking |     Manual |     40K |     40K |         - |      - |      432 |      *1080P |   60 |      55 |  2018  |     Home |
 
+- (ShareGPT4Video) **ShareGPT4Video: Improving Video Understanding and Generation with Better Captions** `Dataset (adding)` <br>
+  Team: USTC, CUHK, PKU, Shanghai AI Lab. <br>
+  *Lin Chen, Xilin Wei, Jinsong Li, et al., Jiaqi Wang* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.04325)], [[PDF](https://arxiv.org/pdf/2406.04325)], [[Code](https://github.com/ShareGPT4Omni/ShareGPT4Video)], [[Dataset](https://huggingface.co/datasets/ShareGPT4Video/ShareGPT4Video)], [[Home Page](https://sharegpt4video.github.io/)]
+  
+- (VideoPhy) **VideoPhy: Evaluating Physical Commonsense for Video Generation** `Dataset (adding)` <br>
+  Team: University of California Los Angeles, Google Research. <br>
+  *Hritik Bansal, Zongyu Lin, Tianyi Xie, et al., Aditya Grover* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.03520)], [[PDF](https://arxiv.org/pdf/2406.03520)], [[Code](https://github.com/Hritikbansal/videophy)], [[Hugging Face](https://huggingface.co/videophysics/videocon_physics/tree/main)], [[Home Page](https://videophy.github.io/)]
+
+- (GenAI-Bench) **Evaluating Text-to-Visual Generation with Image-to-Text Generation** `Dataset (adding)` <br>
+  Team: CMU, Meta. <br>
+  *Zhiqiu Lin, Deepak Pathak, Baiqi Li, et al., Deva Ramanan* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.01291)], [[PDF](https://arxiv.org/pdf/2404.01291)], [[Code](https://github.com/linzhiqiu/t2v_metrics)], [[Home Page](https://linzhiqiu.github.io/papers/vqascore/)]
 
 - (VidProM) **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models** `Dataset (adding)` <br>
   Team: ReLER Lab. <br>
