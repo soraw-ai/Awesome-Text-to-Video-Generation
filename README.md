@@ -34,6 +34,38 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   **ICCV'23(Oral)**, arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.09748)], [[PDF](https://arxiv.org/pdf/2212.09748.pdf)], [[Code](https://github.com/facebookresearch/DiT)], [[Pretrained Model](https://github.com/facebookresearch/DiT)], [[Home Page](https://www.wpeebles.com/DiT.html)] <br>
 
 ## <a name="text_to_video"></a> Text-to-Video
+- **Zero-Shot Video Editing through Adaptive Sliding Score Distillation** `Video Editing` <br>
+  Team: Nanjing University. <br>
+  *Lianghan Zhu, Yanqi Bao, Jing Huo, et al., Yang Gao* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.04888)], [[PDF](https://arxiv.org/pdf/2406.04888)], [[Home Page](https://nips24videoedit.github.io/zeroshot_videoedit/)] <br>
+- **CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion** <br>
+  Team: University of Science and Technology of China. <br>
+  *Xingrui Wang, Xin Li, Zhibo Chen* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.05082)], [[PDF](https://arxiv.org/pdf/2406.05082)], [[Home Page](https://wxrui182.github.io/CoNo.github.io/)] <br>
+- **VideoTetris: Towards Compositional Text-to-Video Generation** <br>
+  Team: Peking University. <br>
+  *Ye Tian, Ling Yang, Haotian Yang, et al., Bin Cui* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.04277)], [[PDF](https://arxiv.org/pdf/2406.04277)], [[Code](https://github.com/YangLing0818/VideoTetris)], [[Home Page](https://videotetris.github.io/)] <br>
+- **Searching Priors Makes Text-to-Video Synthesis Better** <br>
+  Team: Zhejiang University. <br>
+  *Haoran Cheng, Liang Peng, Linxuan Xia, et al., Boxi Wu* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.03215)], [[PDF](https://arxiv.org/pdf/2406.03215)], [[Home Page](https://hrcheng98.github.io/Search_T2V/)] <br>
+- **Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting** `3DGS Task` <br>
+  Team: KAIST, ByteDance. <br>
+  *Inkyu Shin, Qihang Yu, Xiaohui Shen, et al., Liang-Chieh Chen* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.02541)], [[PDF](https://arxiv.org/pdf/2406.02541)], [[Home Page](https://video-3dgs-project.github.io/)] <br>
+- **ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation** <br>
+  Team: Tsinghua University. <br>
+  *Tianchen Zhao, Tongcheng Fang, Enshu Liu, et al., Yu Wang* <br>
+  arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.02540)], [[PDF](https://arxiv.org/pdf/2406.02540)], [[Home Page](https://a-suozhang.xyz/viditq.github.io/)] <br>
+- **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation** <br>
+  Team: UCLA, Google. <br>
+  *Hritik Bansal, Yonatan Bitton, Michal Yarom, et al., Kai-Wei Chang* <br>
+  arXiv, 2024.05 [[Paper](https://arxiv.org/abs/2405.04682)], [[PDF](https://arxiv.org/pdf/2405.04682)], [[Code](https://github.com/Hritikbansal/talc)], [[Dataset](https://huggingface.co/datasets/hbXNov/multi_scene_video_text_data)], [[Pretrained Model](https://huggingface.co/hbXNov/talc_finetuned_modelscope_t2v)], [[Home Page](https://talc-mst2v.github.io/)] <br>
+- **iVideoGPT: Interactive VideoGPTs are Scalable World Models** `Robotics` <br>
+  Team: Tsinghua University. <br>
+  *Jialong Wu, Shaofeng Yin, Ningya Feng, et al., Mingsheng Long* <br>
+  arXiv, 2024.05 [[Paper](https://arxiv.org/abs/2405.15223)], [[PDF](https://arxiv.org/pdf/2405.15223)], [[Code](https://github.com/thuml/iVideoGPT)], [[Home Page](https://thuml.github.io/iVideoGPT/)] <br>
 - **Video generation models as world simulators** <br>
   Team: Sora, Open AI. <br>
   *Tim Brooks, Bill Peebles, Connor Homes, et al., Aditya Ramesh* <br>
