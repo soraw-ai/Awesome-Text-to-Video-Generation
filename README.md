@@ -65,7 +65,11 @@ In this survey, We have conducted a comprehensive exploration of existing works 
 - **iVideoGPT: Interactive VideoGPTs are Scalable World Models** `Robotics` <br>
   Team: Tsinghua University. <br>
   *Jialong Wu, Shaofeng Yin, Ningya Feng, et al., Mingsheng Long* <br>
-  arXiv, 2024.05 [[Paper](https://arxiv.org/abs/2405.15223)], [[PDF](https://arxiv.org/pdf/2405.15223)], [[Code](https://github.com/thuml/iVideoGPT)], [[Home Page](https://thuml.github.io/iVideoGPT/)] <br>
+  arXiv, 2024.05 [[Paper](https://arxiv.org/abs/2405.15223)], [[PDF](https://arxiv.org/pdf/2405.15223)], [[Code](https://github.com/thuml/iVideoGPT)], [[Home Page](https://thuml.github.io/iVideoGPT/)] <be>
+- **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators** <br>
+  Team: Peking University, University of Rochester. <br>
+  *Shenghai Yuan, Jinfa Huang, Yujun Shi, et al., Li Yuan, Jiebo Luo* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.05014)], [[PDF](https://arxiv.org/abs/2404.05014)], [[Code](https://github.com/PKU-YuanGroup/MagicTime)], [[Home Page](https://pku-yuangroup.github.io/MagicTime/)] <br>
 - **Video generation models as world simulators** <br>
   Team: Sora, Open AI. <br>
   *Tim Brooks, Bill Peebles, Connor Homes, et al., Aditya Ramesh* <br>
@@ -259,7 +263,7 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   *Hanzhuo Huang, Yufan Feng, Cheng Shi, et al., Sibei Yang* <br>
   **NeurIPS'24**, arxiv, 2023.9[[Paper](https://arxiv.org/abs/2309.14494)], [[PDF](https://arxiv.org/pdf/2309.14494.pdf)], [[Home Page](https://github.com/showlab/Tune-A-Video)] <br>
 - **Show-1: Marrying pixel and latent diffusion models for text-to-video generation.** <br>
-  Team: Show Lab, National University of Singapor <br>
+  Team: Show Lab, National University of Singapore <br>
   *David Junhao Zhang, Jay Zhangjie Wu, Jia-Wei Liu, et al., Mike Zheng Shou* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.15818)], [[PDF](https://arxiv.org/pdf/2309.15818.pdf)], [[Home Page](https://showlab.github.io/Show-1/)],[[Code](https://github.com/showlab/Show-1)], [[Pretrained Model](https://huggingface.co/spaces/showlab/Show-1)] <br>
 - **GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER** <br>
@@ -319,7 +323,7 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   *Susung Hong, Junyoung Seo, Heeseong Shin, Sunghwan Hong, Seungryong Kim* <br>
   arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.14330)], [[PDF](https://arxiv.org/pdf/2305.14330.pdf)] <br>
 - **Sketching the Future (STF): Applying Conditional Control Techniques to Text-to-Video Models** <br>
-  Team: Carnegie Mellon Univeristy. <br>
+  Team: Carnegie Mellon University. <br>
   *Rohan Dhesikan, Vignesh Rajmohan* <br>
   arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.05845)], [[PDF](https://arxiv.org/pdf/2305.05845.pdf)], [[Code(coming)](https://github.com/rohandkn/skribble2vid)] <br>
 - **Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** <br>
@@ -492,6 +496,7 @@ Metrics are divided as `image-level, video-level`. <br>
 |      **Y-mP** |      Open |     Manual |     10M |     10M |      54.2 |      - |        - |           - |    - |    150K |  2023  |    Youku |
 |     **V-27M** |      Open |  Generated |     27M |    135M |      12.5 |      - |        - |           - |    - |       - |  2024  |  YouTube |
 |     **P-70M** |      Open |  Generated |       - |   70.8M |       8.5 |   13.2 |    70.8M |        720P |    - |  166.8K |  2024  |  YouTube |
+| **ChronoMagic-Pro** |      Open |  Generated |       - |   - |       234.1 |   - |    460K |        720P |    - |  30.0K |  2024  |  YouTube |
 |     **LSMDC** |     Movie |     Manual |    118K |    118K |      4.8s |    7.0 |      200 |       1080P |    - |     158 |  2017  |    Movie |
 |       **MAD** |     Movie |     Manual |       - |    384K |         - |   12.7 |      650 |           - |    - |    1.2K |  2022  |    Movie |
 |   **UCF-101** |    Action |     Manual |     13K |       - |      7.2s |      - |        - |        240P |   25 |      27 |  2012  |  YouTube |
@@ -510,6 +515,11 @@ Metrics are divided as `image-level, video-level`. <br>
   Team: USTC, CUHK, PKU, Shanghai AI Lab. <br>
   *Lin Chen, Xilin Wei, Jinsong Li, et al., Jiaqi Wang* <br>
   arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.04325)], [[PDF](https://arxiv.org/pdf/2406.04325)], [[Code](https://github.com/ShareGPT4Omni/ShareGPT4Video)], [[Dataset](https://huggingface.co/datasets/ShareGPT4Video/ShareGPT4Video)], [[Home Page](https://sharegpt4video.github.io/)]
+
+- (ChronoMagic-Pro) **ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation** <br>
+  Team: Peking University, University of Rochester. <br>
+  *Shenghai Yuan, Jinfa Huang, et al., Jiebo Luo, Li Yuan* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2406.18522)], [[PDF](https://arxiv.org/abs/2406.18522)], [[Code](https://github.com/PKU-YuanGroup/ChronoMagic-Bench)], [[Home Page](https://pku-yuangroup.github.io/ChronoMagic-Bench/)] <br>
   
 - (VideoPhy) **VideoPhy: Evaluating Physical Commonsense for Video Generation** `Dataset (adding)` <br>
   Team: University of California Los Angeles, Google Research. <br>
