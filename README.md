@@ -70,6 +70,11 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: Peking University, University of Rochester. <br>
   *Shenghai Yuan, Jinfa Huang, Yujun Shi, et al., Li Yuan, Jiebo Luo* <br>
   arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.05014)], [[PDF](https://arxiv.org/abs/2404.05014)], [[Code](https://github.com/PKU-YuanGroup/MagicTime)], [[Home Page](https://pku-yuangroup.github.io/MagicTime/)] <br>
+- **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis** <br>
+  Team: Snap Inc, University of Trento.<br>
+  *Willi Menapace, Aliaksandr Siarohin, et al., Sergey Tulyakov* <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.14797)], [[PDF](https://arxiv.org/pdf/2402.14797)], [[Home Page](https://snap-research.github.io/snapvideo/)]
+
 - **Video generation models as world simulators** <br>
   Team: Sora, Open AI. <br>
   *Tim Brooks, Bill Peebles, Connor Homes, et al., Aditya Ramesh* <br>
@@ -106,6 +111,12 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: Google Research, Weizmann Institute, Tel-Aviv University, Technion. <br>
   *Omer Bar-Tal, Hila Chefer, Omer Tov, et al., Inbar Mosseri* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.12945)], [[PDF](https://arxiv.org/pdf/2401.12945.pdf)], [[Home Page](https://lumiere-video.github.io/)] <br>
+
+- **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos** <br>
+  Team: HUST, Alibaba Group. <br>
+  *Xiang Wang, Shiwei Zhang, et al., Nong Sang* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.15770)], [[PDF](https://arxiv.org/pdf/2312.15770)], [[Home Page](https://tf-t2v.github.io/)]
+
 - **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** <br>
   Team: Fudan University, Alibaba Group, HUST, Zhejiang University. <br>
   *Yujie Wei, Shiwei Zhang, Zhiwu Qing, et al., Hongming Shan* <br>
