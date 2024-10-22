@@ -229,6 +229,11 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: Meta. <br>
   *Rohit Girdhar, Mannat Singh, Andrew Brown, et al., Ishan Misra* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.10709)], [[PDF](https://arxiv.org/pdf/2311.10709.pdf)], [[Home Page](https://emu-video.metademolab.com/)], [[Demo(live)](https://emu-video.metademolab.com/#/demo)] <br>
+- **MotionDirector: Motion Customization of Text-to-Video Diffusion Models** <br>
+  Team: Show Lab, National University of Singapore, Zhejiang University <br>
+  *Rui Zhao, Yuchao Gu, et al., Mike Zheng Shou* <br>
+  ECCV'24 (Oral), 2023.10 [[Paper](https://arxiv.org/abs/2310.08465)], [[PDF](https://arxiv.org/pdf/2310.08465)], [[Code](https://github.com/showlab/MotionDirector)], [[Home Page](https://showlab.github.io/MotionDirector/)]
+
 - **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling** `Training-free` <br>
   Team: Nanyang Technological University. <br>
   *Haonan Qiu, Menghan Xia, Yong Zhang, et al., Ziwei Liu* <br>
