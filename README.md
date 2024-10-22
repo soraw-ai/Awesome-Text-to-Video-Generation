@@ -58,6 +58,10 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: Tsinghua University. <br>
   *Tianchen Zhao, Tongcheng Fang, Enshu Liu, et al., Yu Wang* <br>
   arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.02540)], [[PDF](https://arxiv.org/pdf/2406.02540)], [[Home Page](https://a-suozhang.xyz/viditq.github.io/)] <br>
+- **FIFO-Diffusion: Generating Infinite Videos from Text without Training** <br>
+  Team: Computer Vision Laboratory, ECE & IPAI, Seoul National University <br>
+  Jihwan Kim, Junoh Kang, Jinyoung Cho, Bohyung Han <br>
+  arXiv, 2024.05 [[Paper](https://arxiv.org/abs/2405.11473)], [[PDF](https://arxiv.org/pdf/2405.11473)], [[Code](https://github.com/jjihwan/FIFO-Diffusion_public)], [[Home Page](https://jjihwan.github.io/projects/FIFO-Diffusion)]
 - **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation** <br>
   Team: UCLA, Google. <br>
   *Hritik Bansal, Yonatan Bitton, Michal Yarom, et al., Kai-Wei Chang* <br>
