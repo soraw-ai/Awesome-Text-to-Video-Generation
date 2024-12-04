@@ -34,6 +34,12 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   **ICCV'23(Oral)**, arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.09748)], [[PDF](https://arxiv.org/pdf/2212.09748.pdf)], [[Code](https://github.com/facebookresearch/DiT)], [[Pretrained Model](https://github.com/facebookresearch/DiT)], [[Home Page](https://www.wpeebles.com/DiT.html)] <br>
 
 ## <a name="text_to_video"></a> Text-to-Video
+- **Identity-Preserving Text-to-Video Generation by Frequency Decomposition**<br>
+  Team: Peking University, Peng Cheng Laboratory<br>
+  *Shenghai Yuan, Jinfa Huang, Xianyi He, et al., Li Yuan* <br>
+  arXiv, 2024.11 [[Paper](https://arxiv.org/abs/2411.17440)], [[PDF](https://arxiv.org/pdf/2411.17440)], [[Code](https://github.com/PKU-YuanGroup/ConsisID)], [[Home Page](https://pku-yuangroup.github.io/ConsisID/)]
+
+
 - **Zero-Shot Video Editing through Adaptive Sliding Score Distillation** `Video Editing` <br>
   Team: Nanjing University. <br>
   *Lianghan Zhu, Yanqi Bao, Jing Huo, et al., Yang Gao* <br>
