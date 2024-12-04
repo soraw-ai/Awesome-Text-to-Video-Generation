@@ -66,7 +66,7 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   arXiv, 2024.06 [[Paper](https://arxiv.org/abs/2406.02540)], [[PDF](https://arxiv.org/pdf/2406.02540)], [[Home Page](https://a-suozhang.xyz/viditq.github.io/)] <br>
 - **FIFO-Diffusion: Generating Infinite Videos from Text without Training** <br>
   Team: Computer Vision Laboratory, ECE & IPAI, Seoul National University <br>
-  Jihwan Kim, Junoh Kang, Jinyoung Cho, Bohyung Han <br>
+  *Jihwan Kim, Junoh Kang, Jinyoung Cho, Bohyung Han* <br>
   arXiv, 2024.05 [[Paper](https://arxiv.org/abs/2405.11473)], [[PDF](https://arxiv.org/pdf/2405.11473)], [[Code](https://github.com/jjihwan/FIFO-Diffusion_public)], [[Home Page](https://jjihwan.github.io/projects/FIFO-Diffusion)]
 - **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation** <br>
   Team: UCLA, Google. <br>
@@ -76,6 +76,11 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: Tsinghua University. <br>
   *Jialong Wu, Shaofeng Yin, Ningya Feng, et al., Mingsheng Long* <br>
   arXiv, 2024.05 [[Paper](https://arxiv.org/abs/2405.15223)], [[PDF](https://arxiv.org/pdf/2405.15223)], [[Code](https://github.com/thuml/iVideoGPT)], [[Home Page](https://thuml.github.io/iVideoGPT/)] <be>
+
+- **TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**<br>
+  Team: The Pennsylvania State University, Friedrich-Alexander-Universität Erlangen-Nürnberg. <br>
+  *Haomiao Ni, Bernhard Egger, Suhas Lohit, et al., Tim K. Marks* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.16306)], [[PDF](https://arxiv.org/pdf/2404.16306)], [[Code](https://github.com/merlresearch/TI2V-Zero)], [[Home Page](https://merl.com/research/highlights/TI2V-Zero)]
 - **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators** <br>
   Team: Peking University, University of Rochester. <br>
   *Shenghai Yuan, Jinfa Huang, Yujun Shi, et al., Li Yuan, Jiebo Luo* <br>
