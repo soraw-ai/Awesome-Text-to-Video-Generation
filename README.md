@@ -38,8 +38,6 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: Peking University, Peng Cheng Laboratory<br>
   *Shenghai Yuan, Jinfa Huang, Xianyi He, et al., Li Yuan* <br>
   arXiv, 2024.11 [[Paper](https://arxiv.org/abs/2411.17440)], [[PDF](https://arxiv.org/pdf/2411.17440)], [[Code](https://github.com/PKU-YuanGroup/ConsisID)], [[Home Page](https://pku-yuangroup.github.io/ConsisID/)]
-
-
 - **Zero-Shot Video Editing through Adaptive Sliding Score Distillation** `Video Editing` <br>
   Team: Nanjing University. <br>
   *Lianghan Zhu, Yanqi Bao, Jing Huo, et al., Yang Gao* <br>
@@ -527,7 +525,8 @@ Metrics are divided as `image-level, video-level`. <br>
 |      **Y-mP** |      Open |     Manual |     10M |     10M |      54.2 |      - |        - |           - |    - |    150K |  2023  |    Youku |
 |     **V-27M** |      Open |  Generated |     27M |    135M |      12.5 |      - |        - |           - |    - |       - |  2024  |  YouTube |
 |     **P-70M** |      Open |  Generated |       - |   70.8M |       8.5 |   13.2 |    70.8M |        720P |    - |  166.8K |  2024  |  YouTube |
-| **ChronoMagic-Pro** |      Open |  Generated |       - |   - |       234.1 |   - |    460K |        720P |    - |  30.0K |  2024  |  YouTube |
+| **ChronoMagic-Pro** |      Open |  Generated |       - |   - |       234.1s |   - |    460K |        720P |    - |  30.0K |  2024  |  YouTube |
+| **OpenS2V-Nexus** |      Open |  Generated |  5.4M |   - |       6.6s |   - |    5.4K |        720P |    - |  10.0K |  2025  |  Inhouse |
 |     **LSMDC** |     Movie |     Manual |    118K |    118K |      4.8s |    7.0 |      200 |       1080P |    - |     158 |  2017  |    Movie |
 |       **MAD** |     Movie |     Manual |       - |    384K |         - |   12.7 |      650 |           - |    - |    1.2K |  2022  |    Movie |
 |   **UCF-101** |    Action |     Manual |     13K |       - |      7.2s |      - |        - |        240P |   25 |      27 |  2012  |  YouTube |
@@ -541,6 +540,11 @@ Metrics are divided as `image-level, video-level`. <br>
 |    **HT100M** |  Instruct |        ASR |    136M |    136M |       3.6 |    4.0 |     1.2M |        240P |    - |  134.5K |  2019  |  YouTube |
 |    **YCook2** |   Cooking |     Manual |     14K |     14K |      19.6 |    8.8 |       2K |           - |    - |     176 |  2018  |  YouTube |
 |     **E-Kit** |   Cooking |     Manual |     40K |     40K |         - |      - |      432 |      *1080P |   60 |      55 |  2018  |     Home |
+
+- (OpenS2V-Nexus) **OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation**<br>
+  Team: Peking University, Peng Cheng Laboratory<br>
+  *Shenghai Yuan, Xianyi He, Yufan Deng, et al., Li Yuan* <br>
+  arXiv, 2025.05 [[Paper](https://arxiv.org/abs/2505.20292)], [[PDF](https://arxiv.org/pdf/2505.20292)], [[Code](https://arxiv.org/abs/2505.20292)], [[Home Page](https://pku-yuangroup.github.io/OpenS2V-Nexus)]
 
 - (ShareGPT4Video) **ShareGPT4Video: Improving Video Understanding and Generation with Better Captions** `Dataset (adding)` <br>
   Team: USTC, CUHK, PKU, Shanghai AI Lab. <br>
