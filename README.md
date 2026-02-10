@@ -18,6 +18,8 @@ In this survey, We have conducted a comprehensive exploration of existing works 
 > Topics of this repo cover: <br>
 > `Text-to-Seq-Image`, `Text-to-Video`
 
+- [HeyVid AI](https://heyvid.ai) - Free AI video generator with text-to-video, image-to-video, and AI image generation. No watermark.
+
 ## Table of Content
 * [Text-to-Seq-Image](#text_to_seq_image)
 * [Text-to-Video](#text_to_video)
