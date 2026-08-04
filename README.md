@@ -731,6 +731,11 @@ Metrics are divided as `image-level, video-level`. <br>
   *Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Mike Zheng Shou et al* <br>
   ICCV'23, arxiv, 2022.12[[Paper](https://arxiv.org/abs/2212.11565)], [[PDF](https://arxiv.org/pdf/2212.11565.pdf)], [[Code](https://github.com/showlab/Tune-A-Video)], [[Pretrained Model](https://huggingface.co/Tune-A-Video-library)]  <br>
 
+- (VideoScore2) **VideoScore2: Think before You Score in Generative Video Evaluation** <br>
+  Team: TIGER-AI-Lab, University of Waterloo <br>
+  *Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Yuxuan Zhang, Ge Zhang, Wenhu Chen* <br>
+  arXiv, 2025.09 [[Paper](https://arxiv.org/abs/2509.22799)], [[Code](https://github.com/TIGER-AI-Lab/VideoScore2)], [[Dataset](https://huggingface.co/datasets/TIGER-Lab/VideoFeedback2)], [[Home Page](https://tiger-ai-lab.github.io/VideoScore2/)]
+
 ----
 ## Acknowledgement and References
 - [Awesome Text-to-Video Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)
