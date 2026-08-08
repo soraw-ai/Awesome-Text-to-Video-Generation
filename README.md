@@ -570,6 +570,10 @@ Metrics are divided as `image-level, video-level`. <br>
   *Zhiqiu Lin, Deepak Pathak, Baiqi Li, et al., Deva Ramanan* <br>
   arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.01291)], [[PDF](https://arxiv.org/pdf/2404.01291)], [[Code](https://github.com/linzhiqiu/t2v_metrics)], [[Home Page](https://linzhiqiu.github.io/papers/vqascore/)]
 
+- (ImageBench) **ImageBench: An Open Text-to-Image Benchmark with VLM Judges across 50+ Models** `Benchmark (Text-to-Image, methodology transfers to T2V)` <br>
+  Team: Independent. <br>
+  Website, 2026.08 [[Home Page](https://imagebench.ai)], [[Methodology](https://imagebench.ai/methodology-v1)], [[Code](https://github.com/dh7/image-bench-ai)]
+
 - (VidProM) **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models** `Dataset (adding)` <br>
   Team: ReLER Lab. <br>
   *Wenhao Wang, Yi Yang* <br>
