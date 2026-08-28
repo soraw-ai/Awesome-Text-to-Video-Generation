@@ -737,6 +737,7 @@ Metrics are divided as `image-level, video-level`. <br>
   arXiv, 2025.09 [[Paper](https://arxiv.org/abs/2509.22799)], [[Code](https://github.com/TIGER-AI-Lab/VideoScore2)], [[Dataset](https://huggingface.co/datasets/TIGER-Lab/VideoFeedback2)], [[Home Page](https://tiger-ai-lab.github.io/VideoScore2/)]
 
 ----
+- **MiniMax-H3-1K** — 1,000 curated text-to-video prompts for MiniMax H3 (T2V), each with integrated multimodal description, overall soundscape, and non-diegetic music fields. [HuggingFace](https://huggingface.co/datasets/ostris/minimax_h3_1k) · [neta.art atlas](https://neta.art/use-cases/en/h3-1000-prompt-list) · [GitHub](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts)
 ## Acknowledgement and References
 - [Awesome Text-to-Video Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)
 - [A Survey on Video Diffusion Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
