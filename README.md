@@ -736,6 +736,10 @@ Metrics are divided as `image-level, video-level`. <br>
   *Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Yuxuan Zhang, Ge Zhang, Wenhu Chen* <br>
   arXiv, 2025.09 [[Paper](https://arxiv.org/abs/2509.22799)], [[Code](https://github.com/TIGER-AI-Lab/VideoScore2)], [[Dataset](https://huggingface.co/datasets/TIGER-Lab/VideoFeedback2)], [[Home Page](https://tiger-ai-lab.github.io/VideoScore2/)]
 
+- (PVSync) **PVSync: A Unified Lip-Sync Expert for Timing and Articulation** `Metric (video-level)` <br>
+  *Kevin Stephen, Varun Menon, Timo Mertens, Nikita Drobyshev* <br>
+  arXiv, 2026.10 [[Paper](https://arxiv.org/abs/2610.09223)], [[PDF](https://arxiv.org/pdf/2610.09223)] <br>
+
 ----
 ## Acknowledgement and References
 - [Awesome Text-to-Video Generation](https://github.com/feifeiobama/Awesome-Text-to-Video-Generation)
