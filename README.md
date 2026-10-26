@@ -19,6 +19,7 @@ In this survey, We have conducted a comprehensive exploration of existing works 
 > `Text-to-Seq-Image`, `Text-to-Video`
 
 ## Table of Content
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 * [Text-to-Seq-Image](#text_to_seq_image)
 * [Text-to-Video](#text_to_video)
 * [Dataset & Metrics](#dataset_and_metrics)
