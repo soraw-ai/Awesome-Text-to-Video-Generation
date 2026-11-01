@@ -717,6 +717,9 @@ Metrics are divided as `image-level, video-level`. <br>
   Team: OpenAI. <br>
   *Alec Radford, Jong Wook Kim, Chris Hallacy, et al., Ilya Sutskever* <br>
   ICML'21, arXiv, 2021.02 [[Paper](https://arxiv.org/abs/2103.00020)], [[PDF](https://arxiv.org/pdf/2103.00020.pdf)], [[Code](https://github.com/OpenAI/CLIP)] <br>
+- (JLD) **JLD: Perceptual Distance Through A Jacobian Lens** `Metric (image-level)` <br>
+  *Shreshth Saini, Balu Adsumilli, Alan C. Bovik* <br>
+  arXiv, 2026.10 [[Paper](https://arxiv.org/abs/2610.05967)], [[PDF](https://arxiv.org/pdf/2610.05967.pdf)], [[Code](https://github.com/shreshthsaini/jld)], [[Home Page](https://shreshthsaini.github.io/jld/)] <br>
 
 - (Video IS) **Train sparsely, generate densely: Memory-efficient unsupervised training of high-resolution temporal gan** `Metric (video-level)` <br>
   *Masaki Saito, Shunta Saito, Masanori Koyama, Sosuke Kobayashi* <br>
