@@ -38,6 +38,11 @@ In this survey, We have conducted a comprehensive exploration of existing works 
   Team: Peking University, ByteDance. <br>
   *Shenghai Yuan, Yuanyang Yin, et al., Li Yuan* <br>
   arXiv, 2025.03 [[Paper](https://arxiv.org/abs/2603.04379)], [[PDF](https://arxiv.org/pdf/2603.04379)], [[Code](https://github.com/PKU-YuanGroup/Helios)], [[Home Page](https://pku-yuangroup.github.io/Helios-Page)]
+- **Motion-aware generative frame interpolation (MoG)** `Generative Frame Interpolation` <br>
+  Team: Nanjing University, Tencent. <br>
+  *Guozhen Zhang, Yuhan Zhu, Yutao Cui, Xiaotong Zhao, Kai Ma, Limin Wang* <br>
+  SCIS, 2026 [[Paper](https://link.springer.com/article/10.1007/s11432-025-4920-3)], arXiv, 2025.01 [[arXiv](https://arxiv.org/abs/2501.03699)], [[Code](https://github.com/MCG-NJU/MoG-VFI)], [[Home Page](https://mcg-nju.github.io/MoG_Web/)] <br>
+
 - **Identity-Preserving Text-to-Video Generation by Frequency Decomposition**<br>
   Team: Peking University, Peng Cheng Laboratory. <br>
   *Shenghai Yuan, Jinfa Huang, Xianyi He, et al., Li Yuan* <br>
